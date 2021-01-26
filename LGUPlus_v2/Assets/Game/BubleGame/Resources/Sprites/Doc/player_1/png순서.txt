@@ -1,0 +1,11 @@
+상단
+▲
+ㅣ 콩순이
+ㅣ speech
+ㅣ awardFlag / mainlight_default 또는 mainlight_title 
+ㅣ bubbplePop / crown / buttonRestart / buttonStop / spacelight_1~5
+ㅣ bubble / endPopUp 또는 endPopUp_crown/ background_star
+ㅣ background_light_all 또는 background_light_1~8
+ㅣ background_all  또는 background_all_excepttittle 또는 background_wall
+▼
+하단

@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 3deded49ef73580449970da94f999f66
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: JuJu_Blouse _Acc
+    100002: JuJu_Blouse_Cloth
+    100004: JUJU_BLOUSE_Face:Body
+    100006: JUJU_BLOUSE_Face:DnTooth
+    100008: JUJU_BLOUSE_Face:DnToothGum
+    100010: JUJU_BLOUSE_Face:JUJU_FACE
+    100012: JUJU_BLOUSE_Face:LeftBrow
+    100014: JUJU_BLOUSE_Face:LeftEye
+    100016: JUJU_BLOUSE_Face:LeftEyeLip
+    100018: JUJU_BLOUSE_Face:LeftEyeLip1
+    100020: JUJU_BLOUSE_Face:RightBrow
+    100022: JUJU_BLOUSE_Face:RightEye
+    100024: JUJU_BLOUSE_Face:RightEyeLip
+    100026: JUJU_BLOUSE_Face:RightEyeLip1
+    100028: JUJU_BLOUSE_Face:tongue
+    100030: JUJU_BLOUSE_Face:UpTooth
+    100032: JUJU_BLOUSE_Face:UpToothGum
+    100034: JuJu_Blouse_Hair
+    100036: JuJu_Blouse_Lleg
+    100038: //RootNode
+    100040: JuJu_Blouse_rib
+    100042: JuJu_Blouse_Rleg
+    400000: JuJu_Blouse _Acc
+    400002: JuJu_Blouse_Cloth
+    400004: JUJU_BLOUSE_Face:Body
+    400006: JUJU_BLOUSE_Face:DnTooth
+    400008: JUJU_BLOUSE_Face:DnToothGum
+    400010: JUJU_BLOUSE_Face:JUJU_FACE
+    400012: JUJU_BLOUSE_Face:LeftBrow
+    400014: JUJU_BLOUSE_Face:LeftEye
+    400016: JUJU_BLOUSE_Face:LeftEyeLip
+    400018: JUJU_BLOUSE_Face:LeftEyeLip1
+    400020: JUJU_BLOUSE_Face:RightBrow
+    400022: JUJU_BLOUSE_Face:RightEye
+    400024: JUJU_BLOUSE_Face:RightEyeLip
+    400026: JUJU_BLOUSE_Face:RightEyeLip1
+    400028: JUJU_BLOUSE_Face:tongue
+    400030: JUJU_BLOUSE_Face:UpTooth
+    400032: JUJU_BLOUSE_Face:UpToothGum
+    400034: JuJu_Blouse_Hair
+    400036: JuJu_Blouse_Lleg
+    400038: //RootNode
+    400040: JuJu_Blouse_rib
+    400042: JuJu_Blouse_Rleg
+    2100000: JUJU_BLOUSE_LOW
+    2100002: JUJU_BLOUSE_Face_JUJU_Face_LOW
+    2100004: JUJU_BLOUSE_Face_JUJU_Face_LOW1
+    2300000: JuJu_Blouse _Acc
+    2300002: JuJu_Blouse_Cloth
+    2300004: JUJU_BLOUSE_Face:Body
+    2300006: JUJU_BLOUSE_Face:DnTooth
+    2300008: JUJU_BLOUSE_Face:DnToothGum
+    2300010: JUJU_BLOUSE_Face:LeftBrow
+    2300012: JUJU_BLOUSE_Face:LeftEye
+    2300014: JUJU_BLOUSE_Face:LeftEyeLip
+    2300016: JUJU_BLOUSE_Face:LeftEyeLip1
+    2300018: JUJU_BLOUSE_Face:RightBrow
+    2300020: JUJU_BLOUSE_Face:RightEye
+    2300022: JUJU_BLOUSE_Face:RightEyeLip
+    2300024: JUJU_BLOUSE_Face:RightEyeLip1
+    2300026: JUJU_BLOUSE_Face:tongue
+    2300028: JUJU_BLOUSE_Face:UpTooth
+    2300030: JUJU_BLOUSE_Face:UpToothGum
+    2300032: JuJu_Blouse_Hair
+    2300034: JuJu_Blouse_Lleg
+    2300036: JuJu_Blouse_rib
+    2300038: JuJu_Blouse_Rleg
+    3300000: JuJu_Blouse _Acc
+    3300002: JuJu_Blouse_Cloth
+    3300004: JUJU_BLOUSE_Face:Body
+    3300006: JUJU_BLOUSE_Face:DnTooth
+    3300008: JUJU_BLOUSE_Face:DnToothGum
+    3300010: JUJU_BLOUSE_Face:LeftBrow
+    3300012: JUJU_BLOUSE_Face:LeftEye
+    3300014: JUJU_BLOUSE_Face:LeftEyeLip
+    3300016: JUJU_BLOUSE_Face:LeftEyeLip1
+    3300018: JUJU_BLOUSE_Face:RightBrow
+    3300020: JUJU_BLOUSE_Face:RightEye
+    3300022: JUJU_BLOUSE_Face:RightEyeLip
+    3300024: JUJU_BLOUSE_Face:RightEyeLip1
+    3300026: JUJU_BLOUSE_Face:tongue
+    3300028: JUJU_BLOUSE_Face:UpTooth
+    3300030: JUJU_BLOUSE_Face:UpToothGum
+    3300032: JuJu_Blouse_Hair
+    3300034: JuJu_Blouse_Lleg
+    3300036: JuJu_Blouse_rib
+    3300038: JuJu_Blouse_Rleg
+    4300000: JuJu_Blouse_Rleg
+    4300002: JuJu_Blouse_Lleg
+    4300004: JuJu_Blouse_Hair
+    4300006: JuJu_Blouse _Acc
+    4300008: JuJu_Blouse_rib
+    4300010: JuJu_Blouse_Cloth
+    4300012: JUJU_BLOUSE_Face:UpTooth
+    4300014: JUJU_BLOUSE_Face:UpToothGum
+    4300016: JUJU_BLOUSE_Face:DnTooth
+    4300018: JUJU_BLOUSE_Face:DnToothGum
+    4300020: JUJU_BLOUSE_Face:LeftEyeLip1
+    4300022: JUJU_BLOUSE_Face:RightEyeLip1
+    4300024: JUJU_BLOUSE_Face:LeftBrow
+    4300026: JUJU_BLOUSE_Face:RightBrow
+    4300028: JUJU_BLOUSE_Face:RightEye
+    4300030: JUJU_BLOUSE_Face:LeftEye
+    4300032: JUJU_BLOUSE_Face:LeftEyeLip
+    4300034: JUJU_BLOUSE_Face:RightEyeLip
+    4300036: JUJU_BLOUSE_Face:tongue
+    4300038: JUJU_BLOUSE_Face:Body
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_BLOUSE_Face_JUJU_Face_LOW
+    second: {fileID: 2100000, guid: 98894fa00eaefbd4fb8fcd80c1dc3f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_BLOUSE_Face_JUJU_Face_LOW1
+    second: {fileID: 2100000, guid: 98894fa00eaefbd4fb8fcd80c1dc3f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_BLOUSE_LOW
+    second: {fileID: 2100000, guid: 55b9d307861027a40afd78e0f03bb62f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

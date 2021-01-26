@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4ecb0958cd672ba45b53a9ef45209449
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LG Smart_H
+  fontNames:
+  - LG Smart_H
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a9d88ba454a4e749b7680e5f33f5fee, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

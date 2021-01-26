@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: df96f7758061c654c9f0070558a80c96
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DnTooth
+    100004: DnToothGum
+    100006: GUM
+    100008: 'Mesh '
+    100010: Mesh  1
+    100012: Mesh  2
+    100014: Mesh  3
+    100016: Mesh  4
+    100018: Mesh  5
+    100020: 'Mesh (2) '
+    100022: tongue
+    100024: UpTooth
+    100026: UpToothGum
+    400000: //RootNode
+    400002: DnTooth
+    400004: DnToothGum
+    400006: GUM
+    400008: 'Mesh '
+    400010: Mesh  1
+    400012: Mesh  2
+    400014: Mesh  3
+    400016: Mesh  4
+    400018: Mesh  5
+    400020: 'Mesh (2) '
+    400022: tongue
+    400024: UpTooth
+    400026: UpToothGum
+    2100000: Cindy_Low
+    2100002: lambert2
+    2100004: lambert3
+    2300000: DnTooth
+    2300002: DnToothGum
+    2300004: 'Mesh '
+    2300006: Mesh  1
+    2300008: Mesh  2
+    2300010: Mesh  3
+    2300012: Mesh  4
+    2300014: Mesh  5
+    2300016: 'Mesh (2) '
+    2300018: tongue
+    2300020: UpTooth
+    2300022: UpToothGum
+    3300000: DnTooth
+    3300002: DnToothGum
+    3300004: 'Mesh '
+    3300006: Mesh  1
+    3300008: Mesh  2
+    3300010: Mesh  3
+    3300012: Mesh  4
+    3300014: Mesh  5
+    3300016: 'Mesh (2) '
+    3300018: tongue
+    3300020: UpTooth
+    3300022: UpToothGum
+    4300000: 'Mesh '
+    4300002: 'Mesh '
+    4300004: 'Mesh (2) '
+    4300006: 'Mesh '
+    4300008: 'Mesh '
+    4300010: 'Mesh '
+    4300012: 'Mesh '
+    4300014: UpTooth
+    4300016: UpToothGum
+    4300018: DnTooth
+    4300020: DnToothGum
+    4300022: tongue
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cindy_Low
+    second: {fileID: 2100000, guid: ed32a8a9acc65124a99e25ee063d393f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 4e51a51fef817bc45afcd5ffd1753cf8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

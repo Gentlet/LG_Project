@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: fd42be7b521fab24a9c3e30851a5f868
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 03_juju_v01_uv
+    100004: Add_Grp
+    100006: Add_HideShow_Grp
+    100008: Add_Set_Grp
+    100010: Blouse_hair_collective2
+    100012: Blouse_leg_collective
+    100014: CH
+    100016: CH (2)
+    100018: CH (3)
+    100020: Cindy_blend_Target
+    100022: cindy_Guitar_Grp
+    100024: cindy_Guitar_Joirt_Grp
+    100026: cindy_Guitar_Low
+    100028: Cindy_Low_Obj_Grp1
+    100030: Cloth1_New
+    100032: Cloth2_New
+    100034: Cloth3
+    100036: ClothBend_Jnt
+    100038: ClothBend_Jnt (2)
+    100040: ClothBend_JointA01_Jnt
+    100042: ClothBend_JointA01_Jnt (2)
+    100044: ClothBend_JointA02_Jnt
+    100046: ClothBend_JointA02_Jnt (2)
+    100048: ClothBend_JointA03_Jnt
+    100050: ClothBend_JointA03_Jnt (2)
+    100052: ClothBend_JointB01_Jnt
+    100054: ClothBend_JointB01_Jnt (2)
+    100056: ClothBend_JointB02_Jnt
+    100058: ClothBend_JointB02_Jnt (2)
+    100060: ClothBend_JointB03_Jnt
+    100062: ClothBend_JointB03_Jnt (2)
+    100064: ClothLongBend_Jnt
+    100066: ClothLongBend_Jnt (2)
+    100068: ClothLongBend_JointA01_Jnt
+    100070: ClothLongBend_JointA01_Jnt (2)
+    100072: ClothLongBend_JointA02_Jnt
+    100074: ClothLongBend_JointA02_Jnt (2)
+    100076: ClothLongBend_JointA03_Jnt
+    100078: ClothLongBend_JointA03_Jnt (2)
+    100080: ClothLongBend_JointB01_Jnt
+    100082: ClothLongBend_JointB01_Jnt (2)
+    100084: ClothLongBend_JointB02_Jnt
+    100086: ClothLongBend_JointB02_Jnt (2)
+    100088: ClothLongBend_JointB03_Jnt
+    100090: ClothLongBend_JointB03_Jnt (2)
+    100092: Eye
+    100094: Face_blendshape
+    100096: Guitar_Low_Body
+    100098: Guitar_Low_Line
+    100100: hair
+    100102: Hair01_Con
+    100104: Hair01_Con_Zero
+    100106: Hair01_Jnt
+    100108: Hair01_Jnt (2)
+    100110: Hair02_Con
+    100112: Hair02_Con_Zero
+    100114: Hair02_Jnt
+    100116: Hair02_Jnt (2)
+    100118: Hair1
+    100120: Hair2
+    100122: Hand
+    100124: joint1
+    100126: joint1 (2)
+    100128: joint11
+    100130: joint12
+    100132: joint13
+    100134: joint14
+    100136: joint15
+    100138: joint16
+    100140: joint17
+    100142: joint2
+    100144: joint2 (2)
+    100146: joint_hair_collect
+    100148: joint_Mike
+    100150: joint_Mike (2)
+    100152: JUJU_Blend_Target
+    100154: JuJu_Blouse_Acc
+    100156: JuJu_Blouse_Cloth
+    100158: JuJu_Blouse_Hair
+    100160: JuJu_Blouse_Hair2
+    100162: JUJU_Blouse_Low_Obj_Grp
+    100164: JUJU_Blouse_Low_Obj_Grp (2)
+    100166: JuJu_Blouse_rib
+    100168: JUJU_BODY_Facial
+    100170: JUJU_Dress_Low_Obj_Grp
+    100172: juju_face
+    100174: juju_face (2)
+    100176: JUJU_Jnt_Grp
+    100178: JUJU_Jnt_Grp1
+    100180: JUJU_Mike_Geo
+    100182: JUJU_Mike_Geo (2)
+    100184: JUJU_Mike_GRP
+    100186: JUJU_Mike_GRP1
+    100188: JUJU_MIKE_LOW_A
+    100190: JUJU_MIKE_LOW_A (2)
+    100192: JUJU_MIKE_LOW_B
+    100194: JUJU_MIKE_LOW_B (2)
+    100196: JUJU_MIKE_LOW_C
+    100198: JUJU_MIKE_LOW_C (2)
+    100200: JUJU_MIKE_LOW_D
+    100202: JUJU_MIKE_LOW_D (2)
+    100204: JUJU_MIKE_LOW_E
+    100206: JUJU_MIKE_LOW_E (2)
+    100208: JUJU_Set1
+    100210: LeftClothBend_JointA01_Jnt
+    100212: LeftClothBend_JointA01_Jnt (2)
+    100214: LeftClothBend_JointA02_Jnt
+    100216: LeftClothBend_JointA02_Jnt (2)
+    100218: LeftClothBend_JointA03_Jnt
+    100220: LeftClothBend_JointA03_Jnt (2)
+    100222: LeftClothBend_JointB01_Jnt
+    100224: LeftClothBend_JointB01_Jnt (2)
+    100226: LeftClothBend_JointB02_Jnt
+    100228: LeftClothBend_JointB02_Jnt (2)
+    100230: LeftClothBend_JointB03_Jnt
+    100232: LeftClothBend_JointB03_Jnt (2)
+    100234: LeftClothBend_JointD01_Jnt
+    100236: LeftClothBend_JointD01_Jnt (2)
+    100238: LeftClothBend_JointD02_Jnt
+    100240: LeftClothBend_JointD02_Jnt (2)
+    100242: LeftClothBend_JointD03_Jnt
+    100244: LeftClothBend_JointD03_Jnt (2)
+    100246: LeftClothLongBend_JointA01_Jnt
+    100248: LeftClothLongBend_JointA01_Jnt (2)
+    100250: LeftClothLongBend_JointA02_Jnt
+    100252: LeftClothLongBend_JointA02_Jnt (2)
+    100254: LeftClothLongBend_JointA03_Jnt
+    100256: LeftClothLongBend_JointA03_Jnt (2)
+    100258: LeftClothLongBend_JointB01_Jnt
+    100260: LeftClothLongBend_JointB01_Jnt (2)
+    100262: LeftClothLongBend_JointB02_Jnt
+    100264: LeftClothLongBend_JointB02_Jnt (2)
+    100266: LeftClothLongBend_JointB03_Jnt
+    100268: LeftClothLongBend_JointB03_Jnt (2)
+    100270: LeftClothLongBend_JointD01_Jnt
+    100272: LeftClothLongBend_JointD01_Jnt (2)
+    100274: LeftClothLongBend_JointD02_Jnt
+    100276: LeftClothLongBend_JointD02_Jnt (2)
+    100278: LeftClothLongBend_JointD03_Jnt
+    100280: LeftClothLongBend_JointD03_Jnt (2)
+    100282: LeftEye
+    100284: LeftHair01_Jnt
+    100286: LeftHair01_Jnt (2)
+    100288: LeftHair02_Jnt
+    100290: LeftHair02_Jnt (2)
+    100292: LeftHair03_Jnt
+    100294: LeftHair03_Jnt (2)
+    100296: MiddleHair01_Jnt
+    100298: MiddleHair01_Jnt (2)
+    100300: MiddleHair02_Jnt
+    100302: MiddleHair02_Jnt (2)
+    100304: MiddleHair03_Jnt
+    100306: MiddleHair03_Jnt (2)
+    100308: Mike
+    100310: MorphGroup (2)
+    100312: OLD
+    100314: Prop
+    100316: Prop (2)
+    100318: RightClothBend_JointA01_Jnt
+    100320: RightClothBend_JointA01_Jnt (2)
+    100322: RightClothBend_JointA02_Jnt
+    100324: RightClothBend_JointA02_Jnt (2)
+    100326: RightClothBend_JointA03_Jnt
+    100328: RightClothBend_JointA03_Jnt (2)
+    100330: RightClothBend_JointB01_Jnt
+    100332: RightClothBend_JointB01_Jnt (2)
+    100334: RightClothBend_JointB02_Jnt
+    100336: RightClothBend_JointB02_Jnt (2)
+    100338: RightClothBend_JointB03_Jnt
+    100340: RightClothBend_JointB03_Jnt (2)
+    100342: RightClothBend_JointC01_Jnt
+    100344: RightClothBend_JointC01_Jnt (2)
+    100346: RightClothBend_JointC02_Jnt
+    100348: RightClothBend_JointC02_Jnt (2)
+    100350: RightClothBend_JointC03_Jnt
+    100352: RightClothBend_JointC03_Jnt (2)
+    100354: RightClothLongBend_JointA01_Jnt
+    100356: RightClothLongBend_JointA01_Jnt (2)
+    100358: RightClothLongBend_JointA02_Jnt
+    100360: RightClothLongBend_JointA02_Jnt (2)
+    100362: RightClothLongBend_JointA03_Jnt
+    100364: RightClothLongBend_JointA03_Jnt (2)
+    100366: RightClothLongBend_JointB01_Jnt
+    100368: RightClothLongBend_JointB01_Jnt (2)
+    100370: RightClothLongBend_JointB02_Jnt
+    100372: RightClothLongBend_JointB02_Jnt (2)
+    100374: RightClothLongBend_JointB03_Jnt
+    100376: RightClothLongBend_JointB03_Jnt (2)
+    100378: RightClothLongBend_JointC01_Jnt
+    100380: RightClothLongBend_JointC01_Jnt (2)
+    100382: RightClothLongBend_JointC02_Jnt
+    100384: RightClothLongBend_JointC02_Jnt (2)
+    100386: RightClothLongBend_JointC03_Jnt
+    100388: RightClothLongBend_JointC03_Jnt (2)
+    100390: RightEye
+    100392: RightHair01_Jnt
+    100394: RightHair01_Jnt (2)
+    100396: RightHair02_Jnt
+    100398: RightHair02_Jnt (2)
+    100400: RightHair03_Jnt
+    100402: RightHair03_Jnt (2)
+    100404: Set_Grp
+    100406: SET_SH_HeadJ
+    100408: SET_SH_HeadJ (2)
+    100410: SET_SH_HeadTipJ
+    100412: SET_SH_HeadTipJ (2)
+    100414: SET_SH_JawJ
+    100416: SET_SH_JawJ (2)
+    100418: SET_SH_JawTipJ
+    100420: SET_SH_JawTipJ (2)
+    100422: SET_SH_lAnkleJ
+    100424: SET_SH_lAnkleJ (2)
+    100426: SET_SH_lBallJ
+    100428: SET_SH_lBallJ (2)
+    100430: SET_SH_lClavicleJ
+    100432: SET_SH_lClavicleJ (2)
+    100434: SET_SH_lElbowCurveJ
+    100436: SET_SH_lElbowCurveJ (2)
+    100438: SET_SH_lEyeJ
+    100440: SET_SH_lEyeJ (2)
+    100442: SET_SH_lEyeJ_Cindy
+    100444: SET_SH_lEyeJ_Cindy (2)
+    100446: SET_SH_lFinger1J1
+    100448: SET_SH_lFinger1J1 (2)
+    100450: SET_SH_lFinger1J2
+    100452: SET_SH_lFinger1J2 (2)
+    100454: SET_SH_lFinger1J3
+    100456: SET_SH_lFinger1J3 (2)
+    100458: SET_SH_lFinger1JTip
+    100460: SET_SH_lFinger1JTip (2)
+    100462: SET_SH_lFinger2J1
+    100464: SET_SH_lFinger2J1 (2)
+    100466: SET_SH_lFinger2J2
+    100468: SET_SH_lFinger2J2 (2)
+    100470: SET_SH_lFinger2J3
+    100472: SET_SH_lFinger2J3 (2)
+    100474: SET_SH_lFinger2JTip
+    100476: SET_SH_lFinger2JTip (2)
+    100478: SET_SH_lFinger3J1
+    100480: SET_SH_lFinger3J1 (2)
+    100482: SET_SH_lFinger3J2
+    100484: SET_SH_lFinger3J2 (2)
+    100486: SET_SH_lFinger3J3
+    100488: SET_SH_lFinger3J3 (2)
+    100490: SET_SH_lFinger3JTip
+    100492: SET_SH_lFinger3JTip (2)
+    100494: SET_SH_lFinger4J1
+    100496: SET_SH_lFinger4J1 (2)
+    100498: SET_SH_lFinger4J2
+    100500: SET_SH_lFinger4J2 (2)
+    100502: SET_SH_lFinger4J3
+    100504: SET_SH_lFinger4J3 (2)
+    100506: SET_SH_lFinger4JTip
+    100508: SET_SH_lFinger4JTip (2)
+    100510: SET_SH_lHipCurveJ
+    100512: SET_SH_lHipCurveJ (2)
+    100514: SET_SH_lKneeCurveJ
+    100516: SET_SH_lKneeCurveJ (2)
+    100518: SET_SH_lLowerArmCurveJ1
+    100520: SET_SH_lLowerArmCurveJ1 (2)
+    100522: SET_SH_lLowerArmCurveJ2
+    100524: SET_SH_lLowerArmCurveJ2 (2)
+    100526: SET_SH_lLowerArmCurveJ3
+    100528: SET_SH_lLowerArmCurveJ3 (2)
+    100530: SET_SH_lLowerLegCurveJ1
+    100532: SET_SH_lLowerLegCurveJ1 (2)
+    100534: SET_SH_lLowerLegCurveJ2
+    100536: SET_SH_lLowerLegCurveJ2 (2)
+    100538: SET_SH_lLowerLegCurveJ3
+    100540: SET_SH_lLowerLegCurveJ3 (2)
+    100542: SET_SH_lPalmJ
+    100544: SET_SH_lPalmJ (2)
+    100546: SET_SH_lShoulderCurveJ
+    100548: SET_SH_lShoulderCurveJ (2)
+    100550: SET_SH_lThumbJ1
+    100552: SET_SH_lThumbJ1 (2)
+    100554: SET_SH_lThumbJ2
+    100556: SET_SH_lThumbJ2 (2)
+    100558: SET_SH_lThumbJ3
+    100560: SET_SH_lThumbJ3 (2)
+    100562: SET_SH_lThumbJTip
+    100564: SET_SH_lThumbJTip (2)
+    100566: SET_SH_lToeJ
+    100568: SET_SH_lToeJ (2)
+    100570: SET_SH_lUpperArmCurveJ1
+    100572: SET_SH_lUpperArmCurveJ1 (2)
+    100574: SET_SH_lUpperArmCurveJ2
+    100576: SET_SH_lUpperArmCurveJ2 (2)
+    100578: SET_SH_lUpperArmCurveJ3
+    100580: SET_SH_lUpperArmCurveJ3 (2)
+    100582: SET_SH_lUpperLegCurveJ1
+    100584: SET_SH_lUpperLegCurveJ1 (2)
+    100586: SET_SH_lUpperLegCurveJ2
+    100588: SET_SH_lUpperLegCurveJ2 (2)
+    100590: SET_SH_lUpperLegCurveJ3
+    100592: SET_SH_lUpperLegCurveJ3 (2)
+    100594: SET_SH_lWristJ
+    100596: SET_SH_lWristJ (2)
+    100598: SET_SH_Neck01J
+    100600: SET_SH_Neck01J (2)
+    100602: SET_SH_Neck02J
+    100604: SET_SH_Neck02J (2)
+    100606: SET_SH_Neck03J
+    100608: SET_SH_Neck03J (2)
+    100610: SET_SH_rAnkleJ
+    100612: SET_SH_rAnkleJ (2)
+    100614: SET_SH_rBallJ
+    100616: SET_SH_rBallJ (2)
+    100618: SET_SH_rClavicleJ
+    100620: SET_SH_rClavicleJ (2)
+    100622: SET_SH_rElbowCurveJ
+    100624: SET_SH_rElbowCurveJ (2)
+    100626: SET_SH_rEyeJ
+    100628: SET_SH_rEyeJ (2)
+    100630: SET_SH_rEyeJ_Cindy
+    100632: SET_SH_rEyeJ_Cindy (2)
+    100634: SET_SH_rFinger1J1
+    100636: SET_SH_rFinger1J1 (2)
+    100638: SET_SH_rFinger1J2
+    100640: SET_SH_rFinger1J2 (2)
+    100642: SET_SH_rFinger1J3
+    100644: SET_SH_rFinger1J3 (2)
+    100646: SET_SH_rFinger1JTip
+    100648: SET_SH_rFinger1JTip (2)
+    100650: SET_SH_rFinger2J1
+    100652: SET_SH_rFinger2J1 (2)
+    100654: SET_SH_rFinger2J2
+    100656: SET_SH_rFinger2J2 (2)
+    100658: SET_SH_rFinger2J3
+    100660: SET_SH_rFinger2J3 (2)
+    100662: SET_SH_rFinger2JTip
+    100664: SET_SH_rFinger2JTip (2)
+    100666: SET_SH_rFinger3J1
+    100668: SET_SH_rFinger3J1 (2)
+    100670: SET_SH_rFinger3J2
+    100672: SET_SH_rFinger3J2 (2)
+    100674: SET_SH_rFinger3J3
+    100676: SET_SH_rFinger3J3 (2)
+    100678: SET_SH_rFinger3JTip
+    100680: SET_SH_rFinger3JTip (2)
+    100682: SET_SH_rFinger4J1
+    100684: SET_SH_rFinger4J1 (2)
+    100686: SET_SH_rFinger4J2
+    100688: SET_SH_rFinger4J2 (2)
+    100690: SET_SH_rFinger4J3
+    100692: SET_SH_rFinger4J3 (2)
+    100694: SET_SH_rFinger4JTip
+    100696: SET_SH_rFinger4JTip (2)
+    100698: SET_SH_rHipCurveJ
+    100700: SET_SH_rHipCurveJ (2)
+    100702: SET_SH_rKneeCurveJ
+    100704: SET_SH_rKneeCurveJ (2)
+    100706: SET_SH_rLowerArmCurveJ1
+    100708: SET_SH_rLowerArmCurveJ1 (2)
+    100710: SET_SH_rLowerArmCurveJ2
+    100712: SET_SH_rLowerArmCurveJ2 (2)
+    100714: SET_SH_rLowerArmCurveJ3
+    100716: SET_SH_rLowerArmCurveJ3 (2)
+    100718: SET_SH_rLowerArmCurveJ3_Prop1
+    100720: SET_SH_rLowerArmCurveJ3_Prop1 (2)
+    100722: SET_SH_rLowerArmCurveJ3_Prop2
+    100724: SET_SH_rLowerArmCurveJ3_Prop2 (2)
+    100726: SET_SH_rLowerLegCurveJ1
+    100728: SET_SH_rLowerLegCurveJ1 (2)
+    100730: SET_SH_rLowerLegCurveJ2
+    100732: SET_SH_rLowerLegCurveJ2 (2)
+    100734: SET_SH_rLowerLegCurveJ3
+    100736: SET_SH_rLowerLegCurveJ3 (2)
+    100738: SET_SH_ROOTJ
+    100740: SET_SH_ROOTJ (2)
+    100742: SET_SH_rPalmJ
+    100744: SET_SH_rPalmJ (2)
+    100746: SET_SH_rShoulderCurveJ
+    100748: SET_SH_rShoulderCurveJ (2)
+    100750: SET_SH_rThumbJ1
+    100752: SET_SH_rThumbJ1 (2)
+    100754: SET_SH_rThumbJ2
+    100756: SET_SH_rThumbJ2 (2)
+    100758: SET_SH_rThumbJ3
+    100760: SET_SH_rThumbJ3 (2)
+    100762: SET_SH_rThumbJTip
+    100764: SET_SH_rThumbJTip (2)
+    100766: SET_SH_rToeJ
+    100768: SET_SH_rToeJ (2)
+    100770: SET_SH_rUpperArmCurveJ1
+    100772: SET_SH_rUpperArmCurveJ1 (2)
+    100774: SET_SH_rUpperArmCurveJ2
+    100776: SET_SH_rUpperArmCurveJ2 (2)
+    100778: SET_SH_rUpperArmCurveJ3
+    100780: SET_SH_rUpperArmCurveJ3 (2)
+    100782: SET_SH_rUpperLegCurveJ1
+    100784: SET_SH_rUpperLegCurveJ1 (2)
+    100786: SET_SH_rUpperLegCurveJ2
+    100788: SET_SH_rUpperLegCurveJ2 (2)
+    100790: SET_SH_rUpperLegCurveJ3
+    100792: SET_SH_rUpperLegCurveJ3 (2)
+    100794: SET_SH_rWristJ
+    100796: SET_SH_rWristJ (2)
+    100798: SET_SH_Spine01J
+    100800: SET_SH_Spine01J (2)
+    100802: SET_SH_Spine02J
+    100804: SET_SH_Spine02J (2)
+    100806: SET_SH_Spine03J
+    100808: SET_SH_Spine03J (2)
+    100810: SET_SH_SpineTopJ
+    100812: SET_SH_SpineTopJ (2)
+    100814: SET_SH_WORLDJ
+    100816: SET_SH_WORLDJ (2)
+    100818: Texture Group
+    100820: Texture Group (2)
+    100822: Texture Group (3)
+    100824: TextureGroup (2)
+    100826: TextureGroup (3)
+    100828: TextureGroup (4)
+    400000: //RootNode
+    400002: 03_juju_v01_uv
+    400004: Add_Grp
+    400006: Add_HideShow_Grp
+    400008: Add_Set_Grp
+    400010: Blouse_hair_collective2
+    400012: Blouse_leg_collective
+    400014: CH
+    400016: CH (2)
+    400018: CH (3)
+    400020: Cindy_blend_Target
+    400022: cindy_Guitar_Grp
+    400024: cindy_Guitar_Joirt_Grp
+    400026: cindy_Guitar_Low
+    400028: Cindy_Low_Obj_Grp1
+    400030: Cloth1_New
+    400032: Cloth2_New
+    400034: Cloth3
+    400036: ClothBend_Jnt
+    400038: ClothBend_Jnt (2)
+    400040: ClothBend_JointA01_Jnt
+    400042: ClothBend_JointA01_Jnt (2)
+    400044: ClothBend_JointA02_Jnt
+    400046: ClothBend_JointA02_Jnt (2)
+    400048: ClothBend_JointA03_Jnt
+    400050: ClothBend_JointA03_Jnt (2)
+    400052: ClothBend_JointB01_Jnt
+    400054: ClothBend_JointB01_Jnt (2)
+    400056: ClothBend_JointB02_Jnt
+    400058: ClothBend_JointB02_Jnt (2)
+    400060: ClothBend_JointB03_Jnt
+    400062: ClothBend_JointB03_Jnt (2)
+    400064: ClothLongBend_Jnt
+    400066: ClothLongBend_Jnt (2)
+    400068: ClothLongBend_JointA01_Jnt
+    400070: ClothLongBend_JointA01_Jnt (2)
+    400072: ClothLongBend_JointA02_Jnt
+    400074: ClothLongBend_JointA02_Jnt (2)
+    400076: ClothLongBend_JointA03_Jnt
+    400078: ClothLongBend_JointA03_Jnt (2)
+    400080: ClothLongBend_JointB01_Jnt
+    400082: ClothLongBend_JointB01_Jnt (2)
+    400084: ClothLongBend_JointB02_Jnt
+    400086: ClothLongBend_JointB02_Jnt (2)
+    400088: ClothLongBend_JointB03_Jnt
+    400090: ClothLongBend_JointB03_Jnt (2)
+    400092: Eye
+    400094: Face_blendshape
+    400096: Guitar_Low_Body
+    400098: Guitar_Low_Line
+    400100: hair
+    400102: Hair01_Con
+    400104: Hair01_Con_Zero
+    400106: Hair01_Jnt
+    400108: Hair01_Jnt (2)
+    400110: Hair02_Con
+    400112: Hair02_Con_Zero
+    400114: Hair02_Jnt
+    400116: Hair02_Jnt (2)
+    400118: Hair1
+    400120: Hair2
+    400122: Hand
+    400124: joint1
+    400126: joint1 (2)
+    400128: joint11
+    400130: joint12
+    400132: joint13
+    400134: joint14
+    400136: joint15
+    400138: joint16
+    400140: joint17
+    400142: joint2
+    400144: joint2 (2)
+    400146: joint_hair_collect
+    400148: joint_Mike
+    400150: joint_Mike (2)
+    400152: JUJU_Blend_Target
+    400154: JuJu_Blouse_Acc
+    400156: JuJu_Blouse_Cloth
+    400158: JuJu_Blouse_Hair
+    400160: JuJu_Blouse_Hair2
+    400162: JUJU_Blouse_Low_Obj_Grp
+    400164: JUJU_Blouse_Low_Obj_Grp (2)
+    400166: JuJu_Blouse_rib
+    400168: JUJU_BODY_Facial
+    400170: JUJU_Dress_Low_Obj_Grp
+    400172: juju_face
+    400174: juju_face (2)
+    400176: JUJU_Jnt_Grp
+    400178: JUJU_Jnt_Grp1
+    400180: JUJU_Mike_Geo
+    400182: JUJU_Mike_Geo (2)
+    400184: JUJU_Mike_GRP
+    400186: JUJU_Mike_GRP1
+    400188: JUJU_MIKE_LOW_A
+    400190: JUJU_MIKE_LOW_A (2)
+    400192: JUJU_MIKE_LOW_B
+    400194: JUJU_MIKE_LOW_B (2)
+    400196: JUJU_MIKE_LOW_C
+    400198: JUJU_MIKE_LOW_C (2)
+    400200: JUJU_MIKE_LOW_D
+    400202: JUJU_MIKE_LOW_D (2)
+    400204: JUJU_MIKE_LOW_E
+    400206: JUJU_MIKE_LOW_E (2)
+    400208: JUJU_Set1
+    400210: LeftClothBend_JointA01_Jnt
+    400212: LeftClothBend_JointA01_Jnt (2)
+    400214: LeftClothBend_JointA02_Jnt
+    400216: LeftClothBend_JointA02_Jnt (2)
+    400218: LeftClothBend_JointA03_Jnt
+    400220: LeftClothBend_JointA03_Jnt (2)
+    400222: LeftClothBend_JointB01_Jnt
+    400224: LeftClothBend_JointB01_Jnt (2)
+    400226: LeftClothBend_JointB02_Jnt
+    400228: LeftClothBend_JointB02_Jnt (2)
+    400230: LeftClothBend_JointB03_Jnt
+    400232: LeftClothBend_JointB03_Jnt (2)
+    400234: LeftClothBend_JointD01_Jnt
+    400236: LeftClothBend_JointD01_Jnt (2)
+    400238: LeftClothBend_JointD02_Jnt
+    400240: LeftClothBend_JointD02_Jnt (2)
+    400242: LeftClothBend_JointD03_Jnt
+    400244: LeftClothBend_JointD03_Jnt (2)
+    400246: LeftClothLongBend_JointA01_Jnt
+    400248: LeftClothLongBend_JointA01_Jnt (2)
+    400250: LeftClothLongBend_JointA02_Jnt
+    400252: LeftClothLongBend_JointA02_Jnt (2)
+    400254: LeftClothLongBend_JointA03_Jnt
+    400256: LeftClothLongBend_JointA03_Jnt (2)
+    400258: LeftClothLongBend_JointB01_Jnt
+    400260: LeftClothLongBend_JointB01_Jnt (2)
+    400262: LeftClothLongBend_JointB02_Jnt
+    400264: LeftClothLongBend_JointB02_Jnt (2)
+    400266: LeftClothLongBend_JointB03_Jnt
+    400268: LeftClothLongBend_JointB03_Jnt (2)
+    400270: LeftClothLongBend_JointD01_Jnt
+    400272: LeftClothLongBend_JointD01_Jnt (2)
+    400274: LeftClothLongBend_JointD02_Jnt
+    400276: LeftClothLongBend_JointD02_Jnt (2)
+    400278: LeftClothLongBend_JointD03_Jnt
+    400280: LeftClothLongBend_JointD03_Jnt (2)
+    400282: LeftEye
+    400284: LeftHair01_Jnt
+    400286: LeftHair01_Jnt (2)
+    400288: LeftHair02_Jnt
+    400290: LeftHair02_Jnt (2)
+    400292: LeftHair03_Jnt
+    400294: LeftHair03_Jnt (2)
+    400296: MiddleHair01_Jnt
+    400298: MiddleHair01_Jnt (2)
+    400300: MiddleHair02_Jnt
+    400302: MiddleHair02_Jnt (2)
+    400304: MiddleHair03_Jnt
+    400306: MiddleHair03_Jnt (2)
+    400308: Mike
+    400310: MorphGroup (2)
+    400312: OLD
+    400314: Prop
+    400316: Prop (2)
+    400318: RightClothBend_JointA01_Jnt
+    400320: RightClothBend_JointA01_Jnt (2)
+    400322: RightClothBend_JointA02_Jnt
+    400324: RightClothBend_JointA02_Jnt (2)
+    400326: RightClothBend_JointA03_Jnt
+    400328: RightClothBend_JointA03_Jnt (2)
+    400330: RightClothBend_JointB01_Jnt
+    400332: RightClothBend_JointB01_Jnt (2)
+    400334: RightClothBend_JointB02_Jnt
+    400336: RightClothBend_JointB02_Jnt (2)
+    400338: RightClothBend_JointB03_Jnt
+    400340: RightClothBend_JointB03_Jnt (2)
+    400342: RightClothBend_JointC01_Jnt
+    400344: RightClothBend_JointC01_Jnt (2)
+    400346: RightClothBend_JointC02_Jnt
+    400348: RightClothBend_JointC02_Jnt (2)
+    400350: RightClothBend_JointC03_Jnt
+    400352: RightClothBend_JointC03_Jnt (2)
+    400354: RightClothLongBend_JointA01_Jnt
+    400356: RightClothLongBend_JointA01_Jnt (2)
+    400358: RightClothLongBend_JointA02_Jnt
+    400360: RightClothLongBend_JointA02_Jnt (2)
+    400362: RightClothLongBend_JointA03_Jnt
+    400364: RightClothLongBend_JointA03_Jnt (2)
+    400366: RightClothLongBend_JointB01_Jnt
+    400368: RightClothLongBend_JointB01_Jnt (2)
+    400370: RightClothLongBend_JointB02_Jnt
+    400372: RightClothLongBend_JointB02_Jnt (2)
+    400374: RightClothLongBend_JointB03_Jnt
+    400376: RightClothLongBend_JointB03_Jnt (2)
+    400378: RightClothLongBend_JointC01_Jnt
+    400380: RightClothLongBend_JointC01_Jnt (2)
+    400382: RightClothLongBend_JointC02_Jnt
+    400384: RightClothLongBend_JointC02_Jnt (2)
+    400386: RightClothLongBend_JointC03_Jnt
+    400388: RightClothLongBend_JointC03_Jnt (2)
+    400390: RightEye
+    400392: RightHair01_Jnt
+    400394: RightHair01_Jnt (2)
+    400396: RightHair02_Jnt
+    400398: RightHair02_Jnt (2)
+    400400: RightHair03_Jnt
+    400402: RightHair03_Jnt (2)
+    400404: Set_Grp
+    400406: SET_SH_HeadJ
+    400408: SET_SH_HeadJ (2)
+    400410: SET_SH_HeadTipJ
+    400412: SET_SH_HeadTipJ (2)
+    400414: SET_SH_JawJ
+    400416: SET_SH_JawJ (2)
+    400418: SET_SH_JawTipJ
+    400420: SET_SH_JawTipJ (2)
+    400422: SET_SH_lAnkleJ
+    400424: SET_SH_lAnkleJ (2)
+    400426: SET_SH_lBallJ
+    400428: SET_SH_lBallJ (2)
+    400430: SET_SH_lClavicleJ
+    400432: SET_SH_lClavicleJ (2)
+    400434: SET_SH_lElbowCurveJ
+    400436: SET_SH_lElbowCurveJ (2)
+    400438: SET_SH_lEyeJ
+    400440: SET_SH_lEyeJ (2)
+    400442: SET_SH_lEyeJ_Cindy
+    400444: SET_SH_lEyeJ_Cindy (2)
+    400446: SET_SH_lFinger1J1
+    400448: SET_SH_lFinger1J1 (2)
+    400450: SET_SH_lFinger1J2
+    400452: SET_SH_lFinger1J2 (2)
+    400454: SET_SH_lFinger1J3
+    400456: SET_SH_lFinger1J3 (2)
+    400458: SET_SH_lFinger1JTip
+    400460: SET_SH_lFinger1JTip (2)
+    400462: SET_SH_lFinger2J1
+    400464: SET_SH_lFinger2J1 (2)
+    400466: SET_SH_lFinger2J2
+    400468: SET_SH_lFinger2J2 (2)
+    400470: SET_SH_lFinger2J3
+    400472: SET_SH_lFinger2J3 (2)
+    400474: SET_SH_lFinger2JTip
+    400476: SET_SH_lFinger2JTip (2)
+    400478: SET_SH_lFinger3J1
+    400480: SET_SH_lFinger3J1 (2)
+    400482: SET_SH_lFinger3J2
+    400484: SET_SH_lFinger3J2 (2)
+    400486: SET_SH_lFinger3J3
+    400488: SET_SH_lFinger3J3 (2)
+    400490: SET_SH_lFinger3JTip
+    400492: SET_SH_lFinger3JTip (2)
+    400494: SET_SH_lFinger4J1
+    400496: SET_SH_lFinger4J1 (2)
+    400498: SET_SH_lFinger4J2
+    400500: SET_SH_lFinger4J2 (2)
+    400502: SET_SH_lFinger4J3
+    400504: SET_SH_lFinger4J3 (2)
+    400506: SET_SH_lFinger4JTip
+    400508: SET_SH_lFinger4JTip (2)
+    400510: SET_SH_lHipCurveJ
+    400512: SET_SH_lHipCurveJ (2)
+    400514: SET_SH_lKneeCurveJ
+    400516: SET_SH_lKneeCurveJ (2)
+    400518: SET_SH_lLowerArmCurveJ1
+    400520: SET_SH_lLowerArmCurveJ1 (2)
+    400522: SET_SH_lLowerArmCurveJ2
+    400524: SET_SH_lLowerArmCurveJ2 (2)
+    400526: SET_SH_lLowerArmCurveJ3
+    400528: SET_SH_lLowerArmCurveJ3 (2)
+    400530: SET_SH_lLowerLegCurveJ1
+    400532: SET_SH_lLowerLegCurveJ1 (2)
+    400534: SET_SH_lLowerLegCurveJ2
+    400536: SET_SH_lLowerLegCurveJ2 (2)
+    400538: SET_SH_lLowerLegCurveJ3
+    400540: SET_SH_lLowerLegCurveJ3 (2)
+    400542: SET_SH_lPalmJ
+    400544: SET_SH_lPalmJ (2)
+    400546: SET_SH_lShoulderCurveJ
+    400548: SET_SH_lShoulderCurveJ (2)
+    400550: SET_SH_lThumbJ1
+    400552: SET_SH_lThumbJ1 (2)
+    400554: SET_SH_lThumbJ2
+    400556: SET_SH_lThumbJ2 (2)
+    400558: SET_SH_lThumbJ3
+    400560: SET_SH_lThumbJ3 (2)
+    400562: SET_SH_lThumbJTip
+    400564: SET_SH_lThumbJTip (2)
+    400566: SET_SH_lToeJ
+    400568: SET_SH_lToeJ (2)
+    400570: SET_SH_lUpperArmCurveJ1
+    400572: SET_SH_lUpperArmCurveJ1 (2)
+    400574: SET_SH_lUpperArmCurveJ2
+    400576: SET_SH_lUpperArmCurveJ2 (2)
+    400578: SET_SH_lUpperArmCurveJ3
+    400580: SET_SH_lUpperArmCurveJ3 (2)
+    400582: SET_SH_lUpperLegCurveJ1
+    400584: SET_SH_lUpperLegCurveJ1 (2)
+    400586: SET_SH_lUpperLegCurveJ2
+    400588: SET_SH_lUpperLegCurveJ2 (2)
+    400590: SET_SH_lUpperLegCurveJ3
+    400592: SET_SH_lUpperLegCurveJ3 (2)
+    400594: SET_SH_lWristJ
+    400596: SET_SH_lWristJ (2)
+    400598: SET_SH_Neck01J
+    400600: SET_SH_Neck01J (2)
+    400602: SET_SH_Neck02J
+    400604: SET_SH_Neck02J (2)
+    400606: SET_SH_Neck03J
+    400608: SET_SH_Neck03J (2)
+    400610: SET_SH_rAnkleJ
+    400612: SET_SH_rAnkleJ (2)
+    400614: SET_SH_rBallJ
+    400616: SET_SH_rBallJ (2)
+    400618: SET_SH_rClavicleJ
+    400620: SET_SH_rClavicleJ (2)
+    400622: SET_SH_rElbowCurveJ
+    400624: SET_SH_rElbowCurveJ (2)
+    400626: SET_SH_rEyeJ
+    400628: SET_SH_rEyeJ (2)
+    400630: SET_SH_rEyeJ_Cindy
+    400632: SET_SH_rEyeJ_Cindy (2)
+    400634: SET_SH_rFinger1J1
+    400636: SET_SH_rFinger1J1 (2)
+    400638: SET_SH_rFinger1J2
+    400640: SET_SH_rFinger1J2 (2)
+    400642: SET_SH_rFinger1J3
+    400644: SET_SH_rFinger1J3 (2)
+    400646: SET_SH_rFinger1JTip
+    400648: SET_SH_rFinger1JTip (2)
+    400650: SET_SH_rFinger2J1
+    400652: SET_SH_rFinger2J1 (2)
+    400654: SET_SH_rFinger2J2
+    400656: SET_SH_rFinger2J2 (2)
+    400658: SET_SH_rFinger2J3
+    400660: SET_SH_rFinger2J3 (2)
+    400662: SET_SH_rFinger2JTip
+    400664: SET_SH_rFinger2JTip (2)
+    400666: SET_SH_rFinger3J1
+    400668: SET_SH_rFinger3J1 (2)
+    400670: SET_SH_rFinger3J2
+    400672: SET_SH_rFinger3J2 (2)
+    400674: SET_SH_rFinger3J3
+    400676: SET_SH_rFinger3J3 (2)
+    400678: SET_SH_rFinger3JTip
+    400680: SET_SH_rFinger3JTip (2)
+    400682: SET_SH_rFinger4J1
+    400684: SET_SH_rFinger4J1 (2)
+    400686: SET_SH_rFinger4J2
+    400688: SET_SH_rFinger4J2 (2)
+    400690: SET_SH_rFinger4J3
+    400692: SET_SH_rFinger4J3 (2)
+    400694: SET_SH_rFinger4JTip
+    400696: SET_SH_rFinger4JTip (2)
+    400698: SET_SH_rHipCurveJ
+    400700: SET_SH_rHipCurveJ (2)
+    400702: SET_SH_rKneeCurveJ
+    400704: SET_SH_rKneeCurveJ (2)
+    400706: SET_SH_rLowerArmCurveJ1
+    400708: SET_SH_rLowerArmCurveJ1 (2)
+    400710: SET_SH_rLowerArmCurveJ2
+    400712: SET_SH_rLowerArmCurveJ2 (2)
+    400714: SET_SH_rLowerArmCurveJ3
+    400716: SET_SH_rLowerArmCurveJ3 (2)
+    400718: SET_SH_rLowerArmCurveJ3_Prop1
+    400720: SET_SH_rLowerArmCurveJ3_Prop1 (2)
+    400722: SET_SH_rLowerArmCurveJ3_Prop2
+    400724: SET_SH_rLowerArmCurveJ3_Prop2 (2)
+    400726: SET_SH_rLowerLegCurveJ1
+    400728: SET_SH_rLowerLegCurveJ1 (2)
+    400730: SET_SH_rLowerLegCurveJ2
+    400732: SET_SH_rLowerLegCurveJ2 (2)
+    400734: SET_SH_rLowerLegCurveJ3
+    400736: SET_SH_rLowerLegCurveJ3 (2)
+    400738: SET_SH_ROOTJ
+    400740: SET_SH_ROOTJ (2)
+    400742: SET_SH_rPalmJ
+    400744: SET_SH_rPalmJ (2)
+    400746: SET_SH_rShoulderCurveJ
+    400748: SET_SH_rShoulderCurveJ (2)
+    400750: SET_SH_rThumbJ1
+    400752: SET_SH_rThumbJ1 (2)
+    400754: SET_SH_rThumbJ2
+    400756: SET_SH_rThumbJ2 (2)
+    400758: SET_SH_rThumbJ3
+    400760: SET_SH_rThumbJ3 (2)
+    400762: SET_SH_rThumbJTip
+    400764: SET_SH_rThumbJTip (2)
+    400766: SET_SH_rToeJ
+    400768: SET_SH_rToeJ (2)
+    400770: SET_SH_rUpperArmCurveJ1
+    400772: SET_SH_rUpperArmCurveJ1 (2)
+    400774: SET_SH_rUpperArmCurveJ2
+    400776: SET_SH_rUpperArmCurveJ2 (2)
+    400778: SET_SH_rUpperArmCurveJ3
+    400780: SET_SH_rUpperArmCurveJ3 (2)
+    400782: SET_SH_rUpperLegCurveJ1
+    400784: SET_SH_rUpperLegCurveJ1 (2)
+    400786: SET_SH_rUpperLegCurveJ2
+    400788: SET_SH_rUpperLegCurveJ2 (2)
+    400790: SET_SH_rUpperLegCurveJ3
+    400792: SET_SH_rUpperLegCurveJ3 (2)
+    400794: SET_SH_rWristJ
+    400796: SET_SH_rWristJ (2)
+    400798: SET_SH_Spine01J
+    400800: SET_SH_Spine01J (2)
+    400802: SET_SH_Spine02J
+    400804: SET_SH_Spine02J (2)
+    400806: SET_SH_Spine03J
+    400808: SET_SH_Spine03J (2)
+    400810: SET_SH_SpineTopJ
+    400812: SET_SH_SpineTopJ (2)
+    400814: SET_SH_WORLDJ
+    400816: SET_SH_WORLDJ (2)
+    400818: Texture Group
+    400820: Texture Group (2)
+    400822: Texture Group (3)
+    400824: TextureGroup (2)
+    400826: TextureGroup (3)
+    400828: TextureGroup (4)
+    2100000: Cindy_eye
+    2100002: Cindy_Face
+    2100004: Cindy_Hair
+    2100006: Cindy_Body
+    2100008: Cindy_chest
+    2100010: Cindy_Guitar_LOW
+    2100012: JUJU_BLOUSE_LOW
+    2100014: JuJu_Blouse_LEG
+    2100016: JuJu_Eye
+    2100018: JUJU_Face_new
+    2100020: JUJU_Face
+    2100022: JUJU_Mike_LOW
+    2100024: JUJU_Mike_LOW1
+    4300000: Eye
+    4300002: Hair1
+    4300004: Hair2
+    4300006: Cloth3
+    4300008: Hand
+    4300010: Face_blendshape
+    4300012: Cloth2_New
+    4300014: Cloth1_New
+    4300016: Guitar_Low_Line
+    4300018: Guitar_Low_Body
+    4300020: JuJu_Blouse_Hair
+    4300022: JuJu_Blouse_Acc
+    4300024: JuJu_Blouse_rib
+    4300026: JuJu_Blouse_Cloth
+    4300028: Blouse_leg_collective
+    4300030: LeftEye
+    4300032: RightEye
+    4300034: JUJU_BODY_Facial
+    4300036: Blouse_hair_collective2
+    4300038: JuJu_Blouse_Hair2
+    4300040: JUJU_MIKE_LOW_B
+    4300042: JUJU_MIKE_LOW_C
+    4300044: JUJU_MIKE_LOW_D
+    4300046: JUJU_MIKE_LOW_E
+    4300048: JUJU_MIKE_LOW_A
+    4300050: JUJU_MIKE_LOW_B (2)
+    4300052: JUJU_MIKE_LOW_C (2)
+    4300054: JUJU_MIKE_LOW_D (2)
+    4300056: JUJU_MIKE_LOW_E (2)
+    4300058: JUJU_MIKE_LOW_A (2)
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Blouse_hair_collective2
+    13700002: Blouse_leg_collective
+    13700004: Cloth1_New
+    13700006: Cloth2_New
+    13700008: Cloth3
+    13700010: Eye
+    13700012: Face_blendshape
+    13700014: Guitar_Low_Body
+    13700016: Guitar_Low_Line
+    13700018: Hair1
+    13700020: Hair2
+    13700022: Hand
+    13700024: JuJu_Blouse_Acc
+    13700026: JuJu_Blouse_Cloth
+    13700028: JuJu_Blouse_Hair
+    13700030: JuJu_Blouse_Hair2
+    13700032: JuJu_Blouse_rib
+    13700034: JUJU_BODY_Facial
+    13700036: JUJU_MIKE_LOW_A
+    13700038: JUJU_MIKE_LOW_A (2)
+    13700040: JUJU_MIKE_LOW_B
+    13700042: JUJU_MIKE_LOW_B (2)
+    13700044: JUJU_MIKE_LOW_C
+    13700046: JUJU_MIKE_LOW_C (2)
+    13700048: JUJU_MIKE_LOW_D
+    13700050: JUJU_MIKE_LOW_D (2)
+    13700052: JUJU_MIKE_LOW_E
+    13700054: JUJU_MIKE_LOW_E (2)
+    13700056: LeftEye
+    13700058: RightEye
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cindy_Body
+    second: {fileID: 2100000, guid: 55c817ee6c9acf14ca4bacd6834102ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cindy_Face
+    second: {fileID: 2100000, guid: 5941b23761cf60245b7214ae2952f532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cindy_Guitar_LOW
+    second: {fileID: 2100000, guid: 4363d1a16205d944aa39afcf4a36b8a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cindy_Hair
+    second: {fileID: 2100000, guid: 8936fa08e05352f4da0cb7f6c6dde182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cindy_chest
+    second: {fileID: 2100000, guid: 1cb7d3cb4ebd63a41880fb1143f28872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cindy_eye
+    second: {fileID: 2100000, guid: 989645d43729af6499540e4373729817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_BLOUSE_LOW
+    second: {fileID: 2100000, guid: 01150bf882102d849a61e08a3f4a9be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_Face
+    second: {fileID: 2100000, guid: 0d08db7681d4b774cb686a7f45699312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_Face_new
+    second: {fileID: 2100000, guid: d8692082359402643bbcabbd751a3142, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_Mike_LOW
+    second: {fileID: 2100000, guid: 15cd6a533804cbd4e85bef35b4d0937b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JUJU_Mike_LOW1
+    second: {fileID: 2100000, guid: 0da418cf5d3c29840a56849d80264c82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JuJu_Blouse_LEG
+    second: {fileID: 2100000, guid: 2561cb2d240ada442a9aadf46abe7d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: JuJu_Eye
+    second: {fileID: 2100000, guid: 8672f89bcb7dbd74582caca2bb8aeaba, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1003
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

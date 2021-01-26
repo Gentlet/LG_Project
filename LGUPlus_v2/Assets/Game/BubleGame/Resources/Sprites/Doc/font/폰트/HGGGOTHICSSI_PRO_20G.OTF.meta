@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: aded891b7c2dbdb4c8f5d76db503b3a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HGGGothicssi_Pro
+  fontNames:
+  - HGGGothicssi_Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 394bf3b14d9a4144f9270e4c627bd0b7, type: 3}
+  - {fileID: 12800000, guid: 45c340b3dde9c8a4d9159d626d31f984, type: 3}
+  - {fileID: 12800000, guid: 173e22b4f42b91c46b30bc0d22049306, type: 3}
+  - {fileID: 12800000, guid: 83a8f47ceb995d640b6949818b201507, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

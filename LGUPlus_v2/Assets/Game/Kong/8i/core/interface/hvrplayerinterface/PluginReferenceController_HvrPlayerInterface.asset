@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fea3ee4a1d0a94ac5beb03ace0438b69, type: 3}
+  m_Name: PluginReferenceController_HvrPlayerInterface
+  m_EditorClassIdentifier: 
+  references:
+  - guid: 5ecbc23b844846942b7ddd484f22ff9c
+    platformType: 1
+  - guid: 7bdf20cf1feaa4f60a67453a0845ee6c
+    platformType: 2
+  - guid: afbe371cac63457418b817d869c6d19c
+    platformType: 4
+  - guid: bf1a35090cb6f4c12b5eb8ab15f2c388
+    platformType: 3
+  - guid: 9e47357761bc0f14d89ef0b94147e24e
+    platformType: 5
+  - guid: 3dddedce8ddffee429a27d1660f62544
+    platformType: 0
+  - guid: 80b42bf8a35a33c46a6fc9a87b8cdd24
+    platformType: 0
+  - guid: 6fea20dd06124ce46900914519c6e75c
+    platformType: 0
+  - guid: 4a91bb00ebbc8454f8e00247b5e7c6eb
+    platformType: 0
+  - guid: 8965dfb7335decd45b2ccb9ec3727325
+    platformType: 0

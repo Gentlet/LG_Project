@@ -1,0 +1,1666 @@
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\LiteDB.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\mscorlib.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\netstandard.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.AppContext.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Collections.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Console.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Core.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Data.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Globalization.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Linq.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Numerics.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Reflection.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Threading.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEditor.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityScript.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEditor.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\Temp\bin\Debug\LiteDB.xml
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\obj\Debug\Assembly-CSharp.dll
+C:\Users\hanbv\Documents\work\LGUPLUS\LGUPlus\obj\Debug\Assembly-CSharp.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\DOTween.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\LiteDB.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\mscorlib.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\netstandard.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.AppContext.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Collections.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Console.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Core.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Data.Common.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Data.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Globalization.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Linq.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.Ping.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.Requests.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.Security.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Numerics.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ObjectModel.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Reflection.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.Claims.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.Principal.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Threading.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.ValueTuple.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEditor.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityScript.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEditor.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\DOTween.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\Temp\bin\Debug\LiteDB.xml
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\obj\Debug\Assembly-CSharp.dll
+C:\Users\cyc07\OneDrive\바탕 화면\새 폴더\LGUPlus_v2\obj\Debug\Assembly-CSharp.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Boo.Lang.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\DOTween.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\LiteDB.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\mscorlib.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\netstandard.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.AppContext.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Collections.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ComponentModel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Console.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Core.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Data.Common.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Data.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Globalization.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Linq.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.Http.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.Ping.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.Requests.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.Security.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Numerics.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ObjectModel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Reflection.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.Claims.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.Principal.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Threading.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.ValueTuple.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Timeline.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEditor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityScript.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Cecil.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEditor.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\DOTween.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\Temp\bin\Debug\LiteDB.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\obj\Debug\Assembly-CSharp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2 add lib\obj\Debug\Assembly-CSharp.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\DOTween.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\LiteDB.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\mscorlib.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\netstandard.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.AppContext.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Console.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Core.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Data.Common.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Data.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Globalization.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Ping.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Requests.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Security.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Numerics.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ObjectModel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Claims.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Principal.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ValueTuple.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityScript.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Cecil.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\DOTween.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\LiteDB.xml
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.dll
+C:\Projects\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\DOTween.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\LiteDB.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Microsoft.CSharp.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\mscorlib.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\netstandard.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.AppContext.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Collections.Concurrent.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Collections.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Collections.Specialized.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Console.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Core.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Data.Common.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Data.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Process.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Drawing.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Calendars.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Globalization.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Extensions.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.Pipes.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Linq.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Linq.Expressions.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Linq.Parallel.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Linq.Queryable.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.Rtc.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.NameResolution.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.Ping.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.Requests.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.Security.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.Sockets.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Numerics.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ObjectModel.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Reflection.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Extensions.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Resources.Reader.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Resources.Writer.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Extensions.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Handles.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Numerics.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.Claims.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.Principal.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Security.SecureString.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Http.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Security.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Threading.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Threading.Overlapped.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Threading.Thread.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Threading.Timer.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.ValueTuple.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.XDocument.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEditor.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityScript.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Cecil.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEditor.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.pdb
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\DOTween.xml
+C:\Projects\UnityProjects\LGUPlus_v2\Temp\bin\Debug\LiteDB.xml
+C:\Projects\UnityProjects\LGUPlus_v2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Projects\UnityProjects\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Projects\UnityProjects\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Projects\UnityProjects\LGUPlus_v2\obj\Debug\Assembly-CSharp.dll
+C:\Projects\UnityProjects\LGUPlus_v2\obj\Debug\Assembly-CSharp.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\DOTween.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\LiteDB.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Microsoft.CSharp.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\mscorlib.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\netstandard.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.AppContext.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.Concurrent.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.NonGeneric.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Collections.Specialized.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Console.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Core.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Data.Common.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Data.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Debug.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Process.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.Tools.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Drawing.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Dynamic.Runtime.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Calendars.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Globalization.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Globalization.Extensions.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.Pipes.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.Expressions.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.Parallel.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Linq.Queryable.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Http.Rtc.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.NameResolution.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.NetworkInformation.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Ping.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Requests.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Security.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.Sockets.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Net.WebSockets.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Numerics.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Numerics.Vectors.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ObjectModel.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Emit.Lightweight.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Extensions.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Reflection.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Resources.Reader.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Resources.ResourceManager.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Resources.Writer.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Extensions.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Handles.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Numerics.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Claims.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.Principal.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Security.SecureString.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Duplex.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Http.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.NetTcp.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Primitives.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ServiceModel.Security.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Text.RegularExpressions.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Overlapped.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Thread.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.ThreadPool.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Threading.Timer.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.ValueTuple.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.Linq.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XDocument.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlDocument.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityScript.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityScript.Lang.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Cecil.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\ExCSS.Unity.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Compiler.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Parser.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Boo.Lang.Useful.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.CecilTools.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.Editor.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.VSCode.Editor.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UI.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Timeline.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.Rider.Editor.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\Unity.TextMeshPro.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEditor.UI.pdb
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AIModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ARModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AndroidJNIModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.AudioModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClothModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CoreModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.GridModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.InputLegacyModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TLSModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UNETModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VFXModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VRModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.VideoModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.WindModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\UnityEngine.XRModule.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\DOTween.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\Temp\bin\Debug\LiteDB.xml
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.dll
+F:\Develop\LG U+\LG_Work\ProjectFile\LGUPlus_v2\obj\Debug\Assembly-CSharp.pdb
