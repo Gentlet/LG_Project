@@ -125,6 +125,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
             if (idx == 0)
             {
                 btnCont.SetActive(true);
+                gameBtnCont.SetActive(false);
             }  else
             {
                 btnCont.SetActive(false);
@@ -907,6 +908,15 @@ namespace RenderHeads.Media.AVProVideo.Demos
                     else if (_VideoIndex == 8)
                     {
                         ChangeScene("BubleGameChoose");
+                    }
+                    else if (_VideoIndex == 18)
+                    {
+                        SceneManager.LoadScene("Main");
+                    }
+                    else if (19 <= _VideoIndex && _VideoIndex <= 23)
+                    {
+                        DataSender.Instance.danceIndex = _VideoIndex - 19;
+                        ChangeScene("Dance");
                     }
                     else
                     {

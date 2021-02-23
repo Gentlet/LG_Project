@@ -47,6 +47,7 @@
   <PropertyGroup>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <UnityProjectGenerator>Unity/VSTU</UnityProjectGenerator>
+    <UnityProjectGeneratorVersion>4.8.2.0</UnityProjectGeneratorVersion>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows64:19</UnityBuildTarget>
     <UnityVersion>2019.2.13f1</UnityVersion>
@@ -208,6 +209,7 @@
     <Compile Include="Assets\Game\PaintingGame\Scripts\Game\OuttroMng.cs" />
     <Compile Include="Assets\LGUPlus\Script\APPManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\AudioPlayer.cs" />
+    <Compile Include="Assets\LGUPlus\Script\DataSender.cs" />
     <Compile Include="Assets\LGUPlus\Script\HScroolBarManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\JsonManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\PorgressBar.cs" />
@@ -216,6 +218,7 @@
     <Compile Include="Assets\Libirary\Ani\Scripts\Bookcase.cs" />
     <Compile Include="Assets\Libirary\Ani\Scripts\Libirary.cs" />
     <Compile Include="Assets\Libirary\CarToon\Scripts\Cartoon.cs" />
+    <Compile Include="Assets\Libirary\Dance\Scripts\Dance.cs" />
     <Compile Include="Assets\LiteDB for Unity\Examples\Scripts\AppData.cs" />
     <Compile Include="Assets\LiteDB for Unity\Examples\Scripts\AppSettings.cs" />
     <Compile Include="Assets\LiteDB for Unity\Examples\Scripts\Save Game Example Scripts\BadGuy.cs" />
@@ -413,31 +416,31 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\Game\Kong\8i\core\common\resources\8i\shaders\Blit-HvrShadowDepthCopy.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Projects/Tools/2019.2.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -617,10 +620,10 @@
       <HintPath>C:/Projects/Tools/2019.2.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Assets/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="LiteDB">
-      <HintPath>C:/Projects/UnityProjects/LGUPlus_v2/Assets/LiteDB for Unity/Library/LiteDB.dll</HintPath>
+      <HintPath>C:/Projects/github/LG_Project/LGUPlus_v2/Assets/LiteDB for Unity/Library/LiteDB.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Projects/Tools/2019.2.13f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

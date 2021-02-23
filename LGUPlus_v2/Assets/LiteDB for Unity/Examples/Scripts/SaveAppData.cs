@@ -186,6 +186,9 @@ public class SaveAppData : MonoBehaviour
     private void UpdateUIFromAppSettings(AppData appDatas)
     {
         // 데이터 로드.
+        if (appDatas.Score.Equals(""))
+            return;
+
         float _score = float.Parse(appDatas.Score);
 
         currentCount = _score;

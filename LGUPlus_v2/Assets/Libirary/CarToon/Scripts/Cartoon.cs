@@ -55,7 +55,7 @@ public class Cartoon : MonoBehaviour
             if (i - 1 < bookPositions.Length)
                 obj.transform.position = bookPositions[i + 2].position;
             else
-                obj.transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 246;
+                obj.transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 220;
 
             bookList.Add(obj);
             bookDatas.Add(bds[1], bds[1] + "\n" + bds[2] + "\n" + bds[3] + "\n" + bds[4]);
@@ -88,7 +88,7 @@ public class Cartoon : MonoBehaviour
         {
             for (int i = 0; i < bookList.Count; i++)
             {
-                bookList[i].transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 246;
+                bookList[i].transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 220;
             }
 
             for (int i = 0; i < bookPositions.Length && (_idx / bookPositions.Length) * bookPositions.Length + i < bookList.Count; i++)

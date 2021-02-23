@@ -47,17 +47,17 @@ public class Libirary : MonoBehaviour
             string[] bds = BookListDatas[i].Split(',');
 
             Image obj = Instantiate(bookPrefab, bookParent);
-            obj.transform.GetComponent<Image>().sprite = Resources.Load<Sprite>("Book/B_" + int.Parse(bds[0]).ToString("0000") + "_" + bds[1].Replace(" ", "-").Replace("_", ","));
-            obj.name = bds[1];
+            obj.transform.GetComponent<Image>().sprite = Resources.Load<Sprite>("Book/B_" + int.Parse(bds[0]).ToString("0000") + "_" + bds[1].Replace(" ", "-").Replace("_", ",").Replace("?", ""));
+            obj.name = bds[1].Replace("?", "");
 
             if (i - 1 < bookPositions.Length)
                 obj.transform.position = bookPositions[i - 1].position;
             else
-                obj.transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 246;
+                obj.transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 220;
 
             bookList.Add(obj);
-            bookDatas.Add(bds[1], bds[1] + "\n" + bds[2] + "\n" + bds[3] + "\n" + bds[4]);
-            bookDatas.Add(bds[1] + "con", bds[5]);
+            bookDatas.Add(bds[1].Replace("?", ""), bds[1] + "\n" + bds[2] + "\n" + bds[3] + "\n" + bds[4]);
+            bookDatas.Add(bds[1].Replace("?", "") + "con", bds[5]);
         }
 
         slider.maxValue = BookListDatas.Length - 3;
@@ -86,7 +86,7 @@ public class Libirary : MonoBehaviour
         {
             for (int i = 0; i < bookList.Count; i++)
             {
-                bookList[i].transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 246;
+                bookList[i].transform.position = bookPositions[bookPositions.Length - 1].position + Vector3.right * 220;
             }
 
             for (int i = 0; i < bookPositions.Length && (_idx / bookPositions.Length) * bookPositions.Length + i < bookList.Count; i++)
