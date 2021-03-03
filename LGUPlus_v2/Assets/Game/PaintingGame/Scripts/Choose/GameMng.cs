@@ -18,7 +18,8 @@ namespace PaintingChoose
         }
         void Start()
         {
-            Screen.SetResolution(4320, 1280, false);
+            //Screen.SetResolution(4320, 1280, false);
+            Screen.SetResolution(1920, 1080, true);
         }
 
         void Update()

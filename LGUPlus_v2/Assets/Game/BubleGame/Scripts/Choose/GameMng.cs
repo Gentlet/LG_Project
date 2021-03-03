@@ -17,7 +17,8 @@ namespace Choose
             QualitySettings.vSyncCount = 2;
 
 
-            Screen.SetResolution(4320, 1280, false);
+            //Screen.SetResolution(4320, 1280, false);
+            Screen.SetResolution(1920, 1080, true);
         }
 
         void Update()

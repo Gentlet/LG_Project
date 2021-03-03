@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Libirary/Dance/Scenes/Dance.unity
     guid: 3aa0f64000534e14b91c083661f976cc
+  - enabled: 1
+    path: Assets/Scenes/Aquarium.unity
+    guid: 3c9e27ab23c5fbf498bffbbe9d2c3882
   m_configObjects: {}

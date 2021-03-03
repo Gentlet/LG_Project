@@ -8,10 +8,9 @@ public class APPManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Screen.SetResolution(4320, 1920 , false);
-     
-
-
+        //Screen.SetResolution(4320, 1920 , false);
+        Screen.SetResolution(1920, 1080 , true);
+        Cursor.visible = true;
     }
 
     // Update is called once per frame
