@@ -214,6 +214,7 @@
     <Compile Include="Assets\LGUPlus\Script\JsonManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\PorgressBar.cs" />
     <Compile Include="Assets\LGUPlus\Script\RadialContral.cs" />
+    <Compile Include="Assets\LGUPlus\Script\SceneChanger.cs" />
     <Compile Include="Assets\LGUPlus\Script\ThumbnailManager.cs" />
     <Compile Include="Assets\Libirary\Ani\Scripts\Bookcase.cs" />
     <Compile Include="Assets\Libirary\Ani\Scripts\Libirary.cs" />
@@ -276,6 +277,25 @@
     <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerSwitch.cs" />
     <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerToggle.cs" />
     <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerTooltip.cs" />
+    <Compile Include="Assets\Scripts\BackgroundScript.cs" />
+    <Compile Include="Assets\Scripts\Bubble.cs" />
+    <Compile Include="Assets\Scripts\BubbleSpawn.cs" />
+    <Compile Include="Assets\Scripts\DEFINE.cs" />
+    <Compile Include="Assets\Scripts\FeedScript.cs" />
+    <Compile Include="Assets\Scripts\Fish.cs" />
+    <Compile Include="Assets\Scripts\GameScript.cs" />
+    <Compile Include="Assets\Scripts\JsonHelper.cs" />
+    <Compile Include="Assets\Scripts\LifeTime.cs" />
+    <Compile Include="Assets\Scripts\MainCamera.cs" />
+    <Compile Include="Assets\Scripts\ManagerClass.cs" />
+    <Compile Include="Assets\Scripts\MultiCamera.cs" />
+    <Compile Include="Assets\Scripts\ObjectPool.cs" />
+    <Compile Include="Assets\Scripts\PooledObject.cs" />
+    <Compile Include="Assets\Scripts\ReqData.cs" />
+    <Compile Include="Assets\Scripts\ResData.cs" />
+    <Compile Include="Assets\Scripts\ServerCommunication.cs" />
+    <Compile Include="Assets\Scripts\ServerConfig.cs" />
+    <Compile Include="Assets\Scripts\Singleton.cs" />
     <Compile Include="Assets\SoftMask\Samples\Scripts\Draggable.cs" />
     <Compile Include="Assets\SoftMask\Samples\Scripts\HorizontalFovSetter.cs" />
     <Compile Include="Assets\SoftMask\Samples\Scripts\Item.cs" />
@@ -341,6 +361,7 @@
     <None Include="Assets\AVProVideo\Resources\Shaders\AVProVideo-VR-InsideSphere-StereoUV.shader" />
     <None Include="Assets\Game\Kong\8i\examples\assets\shaders\HVRActor_Hologram_3D.shader" />
     <None Include="Assets\Game\Kong\8i\examples\assets\shaders\HVRActor_Hologram_2D.shader" />
+    <None Include="Assets\PinwheelFantasyEffect\README.txt" />
     <None Include="Assets\AVProVideo\Resources\Shaders\AVProVideo-Unlit-Transparent.shader" />
     <None Include="Assets\Game\Kong\8i\examples\assets\shaders\subroutines\ShaderSubroutine_Mask.txt" />
     <None Include="Assets\Game\Kong\8i\core\common\resources\8i\shaders\Blit-Hvr3DMask.shader" />
@@ -979,6 +1000,12 @@
     <Reference Include="Boo.Lang">
       <HintPath>C:/Projects/Tools/2019.2.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="UniRx.csproj">
+      <Project>{87BE8872-F4CB-A108-ED82-F77A0D1E2B91}</Project>
+      <Name>UniRx</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
