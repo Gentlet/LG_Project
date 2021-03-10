@@ -34,7 +34,8 @@ public class GameScript : MonoBehaviour
         InitCamera();
 
         //string releaseDomain = "http://lguplusmegastore.com/";
-        string releaseDomain = "http://aqua.htmik.com/";
+        //string releaseDomain = "http://aqua.htmik.com/";
+        string releaseDomain = "http://aqua1.bytechtree.com/";
 
         domain = isRelease ? releaseDomain : "http://th.htmik.com/";
         StartCoroutine(CallRespawnAPI());
@@ -222,7 +223,7 @@ public class GameScript : MonoBehaviour
         while (true)
         {
             if (SpawnStatus == DEFINE.SwitchStatus.On)
-            {
+            {                
                 using (UnityWebRequest www = UnityWebRequest.Get(domain + "main/req?deviceid=" + deviceId))
                 {
                     yield return www.SendWebRequest();
@@ -268,7 +269,7 @@ public class GameScript : MonoBehaviour
 
     //서버 Res.php로 응답을 보냄
     private IEnumerator Res(string id, string cmd)
-    {
+    {        
         using (UnityWebRequest www = UnityWebRequest.Get(domain + "main/res?id=" + id + "&cmd=" + cmd + "&deviceid=" + deviceId))
         {
             yield return www.SendWebRequest();
@@ -355,7 +356,7 @@ public class GameScript : MonoBehaviour
     }
 
     private IEnumerator CallRespawnAPI()
-    {
+    {        
         using (UnityWebRequest www = UnityWebRequest.Get(domain + "main/respawn"))
         {
             yield return www.SendWebRequest();
