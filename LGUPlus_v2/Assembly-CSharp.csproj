@@ -210,6 +210,7 @@
     <Compile Include="Assets\LGUPlus\Script\APPManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\AudioPlayer.cs" />
     <Compile Include="Assets\LGUPlus\Script\DataSender.cs" />
+    <Compile Include="Assets\LGUPlus\Script\EditorBtnController.cs" />
     <Compile Include="Assets\LGUPlus\Script\HScroolBarManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\JsonManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\PorgressBar.cs" />

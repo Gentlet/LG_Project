@@ -22,8 +22,11 @@ public class DataSender : MonoBehaviour
         if (_instance != null)
         {
             Destroy(this.gameObject);
+            return;
         }
         _instance = this;
+
+        DontDestroyOnLoad(this.gameObject);
     }
 
     public int danceIndex;
