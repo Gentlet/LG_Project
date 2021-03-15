@@ -84,7 +84,7 @@ public class GameScript : MonoBehaviour
         int camera = 1;
 
         // 가능하다면 이부분에서 camera3 과 camera4 의 보정 방식을 통일하자
-        if(mp.x > 3840 && mp.x < 4920)
+        if(false && mp.x > 3840 && mp.x < 4920) // htmik safe
         {
             mp.x -= 460;
         } else if(mp.x > 5760)
@@ -307,12 +307,18 @@ public class GameScript : MonoBehaviour
             fish.GetComponent<Fish>().id = reqData.id;
 
             Vector3 vp = new Vector3(float.Parse(reqData.posX), float.Parse(reqData.posY), 5);
-            if(vp.x == 0 && vp.y == 0)
-            {
+            if (false) { //htmik safe
+                if(vp.x == 0 && vp.y == 0)
+                {
+                    vp.x = vp.y = 0.5f;
+                }
+                Vector3 wp = (DEFINE.GetPositionType(int.Parse(reqData.type)) == DEFINE.PositionType.Normal ? camera1 : camera4).ViewportToWorldPoint(vp);
+                fish.transform.position = wp;
+            } else {
                 vp.x = vp.y = 0.5f;
+                Vector3 wp = camera1.ViewportToWorldPoint(vp);
+                fish.transform.position = wp;
             }
-            Vector3 wp = (DEFINE.GetPositionType(int.Parse(reqData.type)) == DEFINE.PositionType.Normal ? camera1 : camera4).ViewportToWorldPoint(vp);
-            fish.transform.position = wp;
 
             yield return StartCoroutine(Work(fish, reqData.texture));
 
