@@ -86,6 +86,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
         {
             get
             {
+                if (_mediaPlayer.Control == null)
+                    return _mediaPlayerB;
+                else if (_mediaPlayerB.Control == null)
+                    return _mediaPlayer;
+
                 if (LoadingPlayer == _mediaPlayer)
                 {
                     return _mediaPlayerB;
@@ -104,8 +109,10 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
         private void SwapPlayers()
         {
+            return;
             // Pause the previously playing video
-            PlayingPlayer.Control.Pause();
+            if (PlayingPlayer != null && PlayingPlayer.Control != null)
+                PlayingPlayer.Control.Pause();
             // Swap the videos
             if (LoadingPlayer == _mediaPlayer)
             {
@@ -118,7 +125,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
             // Change the displaying video
             _mediaDisplay.CurrentMediaPlayer = PlayingPlayer;
         }
-                       
+
         public void OnOpenVideoInx(int idx)
         {
             _VideoIndex = idx;
@@ -148,7 +155,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
                 GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().OnThumbnail(false);
             }
 
-            if(_VideoIndex == 6 || _VideoIndex == 10)
+            if(_VideoIndex == 10)
             {
                 gameBtnCont.SetActive(true);
             }
@@ -342,7 +349,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
         private void Awake()
         {
             _loadingPlayer = _mediaPlayerB;
-         //   _sliderHander.GetComponent<Slider>().value = 1;
+            //   _sliderHander.GetComponent<Slider>().value = 1;
         }
 
         void Start()
@@ -488,7 +495,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
                         _ntValue = _curtime / _curduration;
                         _d1 = Mathf.Clamp(_ntValue , 0.0f, 1.0f);
 
-                       Debug.Log(" currentCount    " + currentCount + "  /  " + _isNext);
+                       //Debug.Log(" currentCount    " + currentCount + "  /  " + _isNext);
 
                         if (_d1 > 0.999f)
                         {
@@ -879,17 +886,19 @@ namespace RenderHeads.Media.AVProVideo.Demos
                 case MediaPlayerEvent.EventType.FinishedPlaying :
                     // main 으로 ..
 
-                    //OnOpenVideoInx(0);
-
-                  
-                    if (_VideoIndex == 4)
+                    if (_VideoIndex == 0)
+                    {
+                        PlayingPlayer.Control.Rewind();
+                    }
+                    else if (_VideoIndex == 4)
                     {
                         OnOpenVideoInx(1);
-
-                    } else if (_VideoIndex == 13)
+                    } 
+                    else if (_VideoIndex == 13)
                     {
                         ChangeScene("Libirary");
-                    } else if (_VideoIndex == 6 || _VideoIndex == 10)
+                    } 
+                    else if (_VideoIndex == 6 || _VideoIndex == 10)
                     {
                         OnOpenVideoInx(10);
                     }

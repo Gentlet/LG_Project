@@ -307,16 +307,17 @@ public class GameScript : MonoBehaviour
             fish.GetComponent<Fish>().id = reqData.id;
 
             Vector3 vp = new Vector3(float.Parse(reqData.posX), float.Parse(reqData.posY), 5);
+            Vector3 wp;
             if (false) { //htmik safe
                 if(vp.x == 0 && vp.y == 0)
                 {
                     vp.x = vp.y = 0.5f;
                 }
-                Vector3 wp = (DEFINE.GetPositionType(int.Parse(reqData.type)) == DEFINE.PositionType.Normal ? camera1 : camera4).ViewportToWorldPoint(vp);
+                wp = (DEFINE.GetPositionType(int.Parse(reqData.type)) == DEFINE.PositionType.Normal ? camera1 : camera4).ViewportToWorldPoint(vp);
                 fish.transform.position = wp;
             } else {
                 vp.x = vp.y = 0.5f;
-                Vector3 wp = camera1.ViewportToWorldPoint(vp);
+                wp = camera1.ViewportToWorldPoint(vp);
                 fish.transform.position = wp;
             }
 

@@ -2767,7 +2767,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  _mediaPlayer: {fileID: 930515833}
+  _mediaPlayer: {fileID: 1250462860}
   m_UVRect:
     serializedVersion: 2
     x: 0
@@ -4094,7 +4094,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &930515833
 MonoBehaviour:
   m_ObjectHideFlags: 0

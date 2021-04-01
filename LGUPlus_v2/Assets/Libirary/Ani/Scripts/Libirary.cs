@@ -41,7 +41,6 @@ public class Libirary : MonoBehaviour
     {
         string[] BookListDatas = Resources.Load("BookDatas/Book_v1").ToString().Replace('\r', ' ').Split('\n');
 
-
         for (int i = 1; i < BookListDatas.Length - 1; i++)
         {
             string[] bds = BookListDatas[i].Split(',');
