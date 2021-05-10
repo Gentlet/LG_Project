@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/LGUPlus/Scenes/Main.unity
+- path: Assets/Game/PaintingGame/Scenes/PaintingGameZoo.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

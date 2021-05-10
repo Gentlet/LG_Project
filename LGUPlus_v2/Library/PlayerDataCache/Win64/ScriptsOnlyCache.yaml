@@ -1,8 +1,5 @@
 ScriptsOnlyBuild:
   usedScripts:
-    Assembly-CSharp-Editor.dll:
-    - HVR.Editor.EditorSharedResources
-    - HVR.Editor.PluginReferenceController
     Assembly-CSharp.dll:
     - APPManager
     - Bookcase
@@ -62,6 +59,7 @@ ScriptsOnlyBuild:
     - Painting.IntroMng
     - Painting.OuttroMng
     - PaintingChoose.GameMng
+    - Remocontroller
     - RenderHeads.Media.AVProVideo.Demos.VCRContral
     - RenderHeads.Media.AVProVideo.DisplayUGUI
     - RenderHeads.Media.AVProVideo.MediaPlayer
@@ -95,6 +93,7 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.EventTrigger
@@ -169,6 +168,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12394}
     - Class: 114
       Script: {instanceID: 12970}
+    - Class: 114
+      Script: {instanceID: 58596}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -256,6 +257,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12820}
     - Class: 114
       Script: {instanceID: 12970}
+    - Class: 114
+      Script: {instanceID: 58596}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -349,6 +352,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12718}
     - Class: 114
       Script: {instanceID: 12970}
+    - Class: 114
+      Script: {instanceID: 58596}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -412,6 +417,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12394}
     - Class: 114
       Script: {instanceID: 12970}
+    - Class: 114
+      Script: {instanceID: 58596}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -481,6 +488,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12394}
     - Class: 114
       Script: {instanceID: 12970}
+    - Class: 114
+      Script: {instanceID: 58596}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 137
@@ -558,6 +567,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12394}
     - Class: 114
       Script: {instanceID: 12970}
+    - Class: 114
+      Script: {instanceID: 58596}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 137
@@ -1528,7 +1539,7 @@ ScriptsOnlyBuild:
     className: DemoManager
   - hash:
       serializedVersion: 2
-      Hash: 6ccaa74355ee7abfa0f7572c5cde0f2f
+      Hash: c2f7ec6be5ce3bf2491c06afe92d3991
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Libirary
@@ -1666,7 +1677,7 @@ ScriptsOnlyBuild:
     className: ObservableUpdateSelectedTrigger
   - hash:
       serializedVersion: 2
-      Hash: 58f0c12e5d8eafd80bb8da594c2d6fa9
+      Hash: aeb6a5543d3c8577ccb82289da357e76
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Cartoon
@@ -3062,6 +3073,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: bd55915e999d8406a6c729a2af341759
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Remocontroller
   platform: 19
   scenePathNames:
   - Assets/LGUPlus/Scenes/Main.unity

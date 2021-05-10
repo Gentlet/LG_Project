@@ -2267,6 +2267,8 @@ MonoBehaviour:
   temperture: {fileID: 995260234}
   UnderRemocontroller: {fileID: 543072606}
   slider: {fileID: 1894978085}
+  audioSource: {fileID: 1913952386}
+  guideSound: {fileID: 8300000, guid: 693c21affc41e1349a78d99a65a25db4, type: 3}
 --- !u!1 &674235027
 GameObject:
   m_ObjectHideFlags: 0

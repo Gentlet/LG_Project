@@ -2016,6 +2016,8 @@ MonoBehaviour:
   UnderRemocontroller: {fileID: 543072606}
   slider: {fileID: 1894978085}
   subText: {fileID: 1783296851}
+  audioSource: {fileID: 1913952386}
+  guideSound: {fileID: 8300000, guid: 71af959f91eb96f458c69c7aa65515f9, type: 3}
 --- !u!1 &719276005
 GameObject:
   m_ObjectHideFlags: 0

@@ -207,6 +207,7 @@
     <Compile Include="Assets\Game\PaintingGame\Scripts\Game\GameMng.cs" />
     <Compile Include="Assets\Game\PaintingGame\Scripts\Game\IntroMng.cs" />
     <Compile Include="Assets\Game\PaintingGame\Scripts\Game\OuttroMng.cs" />
+    <Compile Include="Assets\Game\Remocontroller.cs" />
     <Compile Include="Assets\LGUPlus\Script\APPManager.cs" />
     <Compile Include="Assets\LGUPlus\Script\AudioPlayer.cs" />
     <Compile Include="Assets\LGUPlus\Script\DataSender.cs" />

@@ -36,6 +36,11 @@ public class Libirary : MonoBehaviour
     public GameObject UnderRemocontroller;
     public Slider slider;
 
+    public AudioSource audioSource;
+    public AudioClip guideSound;
+
+    private float touchTime;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -63,12 +68,23 @@ public class Libirary : MonoBehaviour
         slider.value = 0;
 
         SelectBook(index);
+
+        touchTime = Time.time;
     }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.S))
             CloseDoor();
+
+        if (Input.GetMouseButtonDown(0))
+            touchTime = Time.time;
+
+        if (Time.time - touchTime >= 30f)
+        {
+            audioSource.PlayOneShot(guideSound);
+            touchTime = Time.time;
+        }
     }
 
     public void SelectBook()
