@@ -71,6 +71,7 @@ ScriptsOnlyBuild:
     - Solo.GameMng
     - Solo.IntroMng
     - Solo.OuttroMng
+    - SoundOneShotPlay
     - Target
     - ThumbnailManager
     - UnityEngine.UI.Michsky.UI.ModernUIPack.UIGradient
@@ -167,9 +168,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12968}
     - Class: 114
-      Script: {instanceID: 58596}
+      Script: {instanceID: 12972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -256,9 +257,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12820}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12968}
     - Class: 114
-      Script: {instanceID: 58596}
+      Script: {instanceID: 12972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -351,9 +352,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12718}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12968}
     - Class: 114
-      Script: {instanceID: 58596}
+      Script: {instanceID: 12972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -416,9 +417,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12968}
     - Class: 114
-      Script: {instanceID: 58596}
+      Script: {instanceID: 12972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -487,9 +488,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12968}
     - Class: 114
-      Script: {instanceID: 58596}
+      Script: {instanceID: 12972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 137
@@ -566,9 +567,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12968}
     - Class: 114
-      Script: {instanceID: 58596}
+      Script: {instanceID: 12972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 137
@@ -771,15 +772,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12926}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12972}
     - Class: 114
-      Script: {instanceID: 12992}
+      Script: {instanceID: 12994}
     - Class: 114
-      Script: {instanceID: 13024}
-    - Class: 114
-      Script: {instanceID: 13072}
+      Script: {instanceID: 13026}
     - Class: 114
       Script: {instanceID: 13074}
+    - Class: 114
+      Script: {instanceID: 13076}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -860,9 +861,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12972}
     - Class: 114
-      Script: {instanceID: 13024}
+      Script: {instanceID: 13026}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -941,9 +942,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12902}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12972}
     - Class: 114
-      Script: {instanceID: 13024}
+      Script: {instanceID: 13026}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1004,7 +1005,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12394}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12972}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1065,6 +1066,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10290}
     - Class: 114
+      Script: {instanceID: 10316}
+    - Class: 114
       Script: {instanceID: 10376}
     - Class: 114
       Script: {instanceID: 10960}
@@ -1085,8 +1088,12 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12534}
     - Class: 114
-      Script: {instanceID: 12970}
+      Script: {instanceID: 12972}
+    - Class: 114
+      Script: {instanceID: 15904}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
       Script: {instanceID: 0}
     - Class: 135
       Script: {instanceID: 0}
@@ -2991,6 +2998,12 @@ ScriptsOnlyBuild:
     className: Dropdown
   - hash:
       serializedVersion: 2
+      Hash: bd55915e999d8406a6c729a2af341759
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Remocontroller
+  - hash:
+      serializedVersion: 2
       Hash: 748dd2a2a28da4e618912da5ac45684b
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -3075,10 +3088,10 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: bd55915e999d8406a6c729a2af341759
+      Hash: ed931065cc93dcd7b7391e618979382e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Remocontroller
+    className: SoundOneShotPlay
   platform: 19
   scenePathNames:
   - Assets/LGUPlus/Scenes/Main.unity

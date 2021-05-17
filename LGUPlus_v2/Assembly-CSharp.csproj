@@ -298,6 +298,7 @@
     <Compile Include="Assets\Scripts\ServerCommunication.cs" />
     <Compile Include="Assets\Scripts\ServerConfig.cs" />
     <Compile Include="Assets\Scripts\Singleton.cs" />
+    <Compile Include="Assets\Scripts\SoundOneShotPlay.cs" />
     <Compile Include="Assets\SoftMask\Samples\Scripts\Draggable.cs" />
     <Compile Include="Assets\SoftMask\Samples\Scripts\HorizontalFovSetter.cs" />
     <Compile Include="Assets\SoftMask\Samples\Scripts\Item.cs" />
