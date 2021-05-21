@@ -1,1 +1,1 @@
-{"m_ScriptingRuntimeVersion":1,"m_DefineSymbols":[{"first":1,"second":"AVPROVIDEO_DISABLE_DEBUG_GUI"}],"m_AllowUnsafeCode":false}
+{"m_ScriptingRuntimeVersion":1,"m_DefineSymbols":[{"first":1,"second":"AVPROVIDEO_DISABLE_DEBUG_GUI;OFFLINE"},{"first":7,"second":"OFFLINE"}],"m_AllowUnsafeCode":false}

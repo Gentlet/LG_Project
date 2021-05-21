@@ -25,6 +25,10 @@ public class GameScript : MonoBehaviour
     private float elapsedTime;
     private float limitTime = 1200f;
 
+#if OFFLINE
+    public ReqData[] _reqDatas;
+#endif
+
     private void Awake()
     {
         Application.targetFrameRate = 60;
@@ -46,8 +50,69 @@ public class GameScript : MonoBehaviour
     {
         isStarted = true;
         //req 반복 호출 시작
+#if !OFFLINE
         StartCoroutine(Req());
+#else
+        StartCoroutine(Spawn());
+#endif
     }
+
+#if OFFLINE
+    IEnumerator Spawn()
+    {
+        for (int i = 0; i < _reqDatas.Length; ++i)
+        {
+            //Debug.Log(" i :: " + i);
+            StartCoroutine(CreateFish(_reqDatas[i]));
+            yield return new WaitForSecondsRealtime(UnityEngine.Random.Range(1.5f, 5f));
+        }
+
+        
+    }
+
+    IEnumerator CreateFish(ReqData reqData)
+    {
+        GameObject[] fishes = GameObject.FindGameObjectsWithTag("Fish");
+        GameObject fish = null;
+        foreach (GameObject obj in fishes)
+        {
+            if (obj.GetComponent<Fish>().id == reqData.id)
+            {
+                fish = obj;
+                break;
+            }
+        }
+
+        ////생성
+        if (reqData.cmd == "1" && fish == null)
+        {
+            fish = ObjectPool.Instance.PopFromPool("Fish" + reqData.type);
+            fish.GetComponent<Fish>().id = reqData.id;
+
+            Vector3 vp = new Vector3(float.Parse(reqData.posX), float.Parse(reqData.posY), 5);
+            Vector3 wp;
+            vp.x = vp.y = 0.5f;
+            wp = camera1.ViewportToWorldPoint(vp);
+            fish.transform.position = wp;
+
+            //    Debug.Log("reqData.texture :: " + reqData.texture);
+            Renderer[] renderers = fish.GetComponentsInChildren<Renderer>();
+            foreach (Renderer renderer in renderers)
+            {
+                renderer.material.mainTexture = reqData.texture;
+            }
+            //yield return StartCoroutine(Work(fish, reqData.texture));
+
+            GameObject bubble = ObjectPool.Instance.PopFromPool("Bubble");
+            wp.z = 4.9f;
+            bubble.transform.position = wp;
+
+            bubble.SetActive(true);
+            fish.SetActive(true);
+        }
+            yield return null;
+    }
+#endif
 
     void Update()
     {
@@ -216,6 +281,7 @@ public class GameScript : MonoBehaviour
         fish.SetActive(true);
     }
 
+#if !OFFLINE
     //서버 Req.php에 요청
     private IEnumerator Req()
     {
@@ -238,7 +304,7 @@ public class GameScript : MonoBehaviour
                         try
                         {
                             reqDatas = JsonUtility.FromJson<ReqDataCollection>(www.downloadHandler.text);
-                            Debug.Log("parsing JSON");
+                            Debug.Log("parsing JSON :: " + reqDatas);
                         }
                         catch (Exception e)
                         {
@@ -286,6 +352,7 @@ public class GameScript : MonoBehaviour
         }
     }
 
+
     //Req.php 콜백
     private IEnumerator APICallSucceed(ReqData reqData)
     {
@@ -321,6 +388,7 @@ public class GameScript : MonoBehaviour
                 fish.transform.position = wp;
             }
 
+            Debug.Log("reqData.texture :: " + reqData.texture);
             yield return StartCoroutine(Work(fish, reqData.texture));
 
             GameObject bubble = ObjectPool.Instance.PopFromPool("Bubble");
@@ -338,6 +406,7 @@ public class GameScript : MonoBehaviour
 
         yield return StartCoroutine(Res(reqData.id, reqData.cmd));
     }
+#endif
 
     //texture 다운로드 후 object texture에 적용
     private IEnumerator Work(GameObject instance, string url)

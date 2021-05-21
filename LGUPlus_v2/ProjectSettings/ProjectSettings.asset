@@ -550,7 +550,8 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
   scriptingDefineSymbols:
-    1: AVPROVIDEO_DISABLE_DEBUG_GUI
+    1: AVPROVIDEO_DISABLE_DEBUG_GUI;OFFLINE
+    7: OFFLINE
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
