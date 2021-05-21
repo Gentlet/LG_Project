@@ -60,6 +60,7 @@ public class GameScript : MonoBehaviour
 #if OFFLINE
     IEnumerator Spawn()
     {
+        yield return new WaitForSecondsRealtime(4f);
         for (int i = 0; i < _reqDatas.Length; ++i)
         {
             //Debug.Log(" i :: " + i);
