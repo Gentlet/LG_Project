@@ -64,7 +64,7 @@ public class GameScript : MonoBehaviour
         {
             //Debug.Log(" i :: " + i);
             StartCoroutine(CreateFish(_reqDatas[i]));
-            yield return new WaitForSecondsRealtime(UnityEngine.Random.Range(1.5f, 5f));
+            yield return new WaitForSecondsRealtime(UnityEngine.Random.Range(1.5f, 10f));
         }
 
         
