@@ -9,7 +9,7 @@ public class SoundOneShotPlay : MonoBehaviour
 
     private void Awake()
     {
-        audioSources.Play();
+        StartCoroutine(SoundPlayDelayTime(4f));
         StartCoroutine(SoundPlayTime(60f));
     }
 
@@ -18,5 +18,11 @@ public class SoundOneShotPlay : MonoBehaviour
         yield return new WaitForSeconds(delayTime);
         audioSources.Play();
         StartCoroutine(SoundPlayTime(60f));
+    }
+
+    IEnumerator SoundPlayDelayTime(float delayTime)
+    {
+        yield return new WaitForSeconds(delayTime);
+        audioSources.Play();
     }
 }
