@@ -25,9 +25,9 @@ public class GameScript : MonoBehaviour
     private float elapsedTime;
     private float limitTime = 1200f;
 
-#if OFFLINE
+//#if OFFLINE
     public ReqData[] _reqDatas;
-#endif
+//#endif
 
     private void Awake()
     {
