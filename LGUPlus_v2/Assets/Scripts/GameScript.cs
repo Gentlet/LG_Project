@@ -38,8 +38,8 @@ public class GameScript : MonoBehaviour
         InitCamera();
 
         //string releaseDomain = "http://lguplusmegastore.com/";
-        //string releaseDomain = "http://aqua.htmik.com/";
-        string releaseDomain = "http://aqua1.bytechtree.com/";
+        string releaseDomain = "http://aqua.htmik.com/";
+        //string releaseDomain = "http://aqua1.bytechtree.com/";
 
         domain = isRelease ? releaseDomain : "http://th.htmik.com/";
         StartCoroutine(CallRespawnAPI());
