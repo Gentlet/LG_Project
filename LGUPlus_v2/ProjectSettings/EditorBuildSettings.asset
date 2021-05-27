@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Game/Kong/8i/core/platforms/android/scenes/HvrUnpackingScene.unity
+    guid: a9de678fefe556d458b2bf960ceda40f
+  - enabled: 1
     path: Assets/LGUPlus/Scenes/Main.unity
     guid: 4ee0e6a84ee79424182efae9322cf595
   - enabled: 1

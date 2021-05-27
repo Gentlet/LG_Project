@@ -46,6 +46,8 @@ public class Cartoon : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        touchTime = Time.time - 27f;
+
         string[] BookListDatas = Resources.Load("BookDatas/Book").ToString().Replace('\r', ' ').Split('\n');
 
 
@@ -81,7 +83,7 @@ public class Cartoon : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
             touchTime = Time.time;
 
-        if (Time.time - touchTime >= 30f)
+        if (Time.time - touchTime >= 30f && isOpen == false)
         {
             audioSource.PlayOneShot(guideSound);
             touchTime = Time.time;
