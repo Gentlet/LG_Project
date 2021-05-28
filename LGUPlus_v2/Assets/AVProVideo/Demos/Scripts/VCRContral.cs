@@ -359,11 +359,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
         {
             if (PlayingPlayer)
             {
-                PlayingPlayer.Events.AddListener(OnVideoEvent);
+                //PlayingPlayer.Events.AddListener(OnVideoEvent);
 
                 if (LoadingPlayer)
                 {
-                    LoadingPlayer.Events.AddListener(OnVideoEvent);
+                    //LoadingPlayer.Events.AddListener(OnVideoEvent);
                 }
 
                 if (_audioVolumeSlider)
@@ -397,7 +397,14 @@ namespace RenderHeads.Media.AVProVideo.Demos
                 //SetButtonEnabled( "UnmuteButton", _mediaPlayer.m_Muted );
 
                 //  OnOpenVideoFile();
-                OnOpenVideoInx(0);
+
+                if (DataSender.Instance.OpenGameBtns == true)
+                {
+                    DataSender.Instance.OpenGameBtns = false;
+                    OnOpenVideoInx(10);
+                }
+                else
+                    OnOpenVideoInx(0);
             }
 
         }
@@ -406,11 +413,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
         {
             if (LoadingPlayer)
             {
-                LoadingPlayer.Events.RemoveListener(OnVideoEvent);
+                //LoadingPlayer.Events.RemoveListener(OnVideoEvent);
             }
             if (PlayingPlayer)
             {
-                PlayingPlayer.Events.RemoveListener(OnVideoEvent);
+                //PlayingPlayer.Events.RemoveListener(OnVideoEvent);
             }
         }
 
@@ -530,33 +537,33 @@ namespace RenderHeads.Media.AVProVideo.Demos
                         _d1 = Mathf.Clamp(_ntValue, 0.0f, 1.0f);
                         //Debug.Log("_d2   : " + _d1 + "    _isOnclick    " + _isOnclick);
 
-
-                        if (_d1 > 0.999f)
-                        {
-                            if (_isOnclick == false)
-                            {
-                                _isNext = false;
-
-                                _isOnclick = true;
-
-                                Debug.Log("============================ ON CLICK 2============================");
-                            }
-                        }
-
-
-                        //  Debug.Log("_isNext : " + time + "    /     " + _vidoeTimeSection[1] + "    d :  " + _d1);
-                    }
-
-                    else if (time > _vidoeTimeSection[2] && time < _vidoeTimeSection[3])
-                    {
-                        //에베레스트
-                        currentCount = 3;
-
-
                         if (_isNext == false)
                         {
                             _isOnclick = false;
                             Debug.Log("NEXT  :  " + currentCount);
+
+
+                            if (_d1 > 0.999f)
+                            {
+                                if (_isOnclick == false)
+                                {
+                                    _isNext = false;
+
+                                    _isOnclick = true;
+
+                                    Debug.Log("============================ ON CLICK 2============================");
+                                }
+                            }
+
+
+                            //  Debug.Log("_isNext : " + time + "    /     " + _vidoeTimeSection[1] + "    d :  " + _d1);
+                        }
+
+                        else if (time > _vidoeTimeSection[2] && time < _vidoeTimeSection[3])
+                        {
+                            //에베레스트
+                            currentCount = 3;
+
                             GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().RightThum(false);
                             _isNext = true;
 
