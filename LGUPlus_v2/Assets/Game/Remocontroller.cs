@@ -5,9 +5,19 @@ using UnityEngine;
 public class Remocontroller : MonoBehaviour
 {
     public AudioSource audioSource;
+    public AudioSource guidaudioSource;
     public AudioClip guideSound;
 
     private float touchTime;
+
+    public bool FastPlay = false;
+    private void Start()
+    {
+        touchTime = Time.time;
+
+        if (FastPlay)
+            touchTime -= 27f;
+    }
 
     private void Update()
     {
@@ -16,12 +26,21 @@ public class Remocontroller : MonoBehaviour
 
         if (Time.time - touchTime >= 30f)
         {
-            audioSource.PlayOneShot(guideSound);
+            audioSource.volume = 0.2f;
+            guidaudioSource.PlayOneShot(guideSound);
             touchTime = Time.time;
+
+            Invoke("VolumReset", guideSound.length);
         }
     }
+    public void VolumReset()
+    {
+        audioSource.volume = 1.0f;
+    }
+
     public void LoadScene(string name)
     {
-        UnityEngine.SceneManagement.SceneManager.LoadScene(name);
+        DataSender.Instance.OpenGameBtns = true;
+        UnityEngine.SceneManagement.SceneManager.LoadScene("Main");
     }
 }

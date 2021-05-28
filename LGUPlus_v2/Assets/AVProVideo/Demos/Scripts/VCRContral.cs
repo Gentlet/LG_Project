@@ -37,7 +37,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
         public MediaPlayer.FileLocation _location = MediaPlayer.FileLocation.RelativeToStreamingAssetsFolder;
         public string _folder = "AVProVideoDemos/";
         public string[] _videoFiles = { "4320 1280 3M LOOP.mp4", "4320 1280 3M VR.mp4" };
-              
+
         public Slider _sliderHander;
         public GameObject startBtn;
 
@@ -59,7 +59,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
         private int _VideoIndex = 0;
         private int currentCount;
         private Image _bufferedSliderImage;
-     
+
         [Header("VARIABLES (IN-GAME)")]
         public bool isOn;
         public bool restart;
@@ -109,7 +109,6 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
         private void SwapPlayers()
         {
-            return;
             // Pause the previously playing video
             if (PlayingPlayer != null && PlayingPlayer.Control != null)
                 PlayingPlayer.Control.Pause();
@@ -133,29 +132,33 @@ namespace RenderHeads.Media.AVProVideo.Demos
             {
                 btnCont.SetActive(true);
                 gameBtnCont.SetActive(false);
-            }  else
+            }
+            else
             {
                 btnCont.SetActive(false);
                 gameBtnCont.SetActive(false);
             }
 
             LoadingPlayer.m_VideoPath = System.IO.Path.Combine(_folder, _videoFiles[_VideoIndex]);
-            if (_VideoIndex == 1  ) 
+            if (_VideoIndex == 1)
             {
                 _isAlpha = true;
                 GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().OnThumbnail(true);
 
-            } else if (_VideoIndex == 2)
+            }
+            else if (_VideoIndex == 2)
             {
                 _isAlpha = true;
                 GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().OnThumbnail(false);
-            } else {
+            }
+            else
+            {
                 _isAlpha = false;
                 GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().init();
                 GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().OnThumbnail(false);
             }
 
-            if(_VideoIndex == 10)
+            if (_VideoIndex == 10)
             {
                 gameBtnCont.SetActive(true);
             }
@@ -168,7 +171,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
             }
             else
             {
-                LoadingPlayer.OpenVideoFromFile(_location, LoadingPlayer.m_VideoPath , _AutoStartToggle.isOn);
+                LoadingPlayer.OpenVideoFromFile(_location, LoadingPlayer.m_VideoPath, _AutoStartToggle.isOn);
             }
 
             if (_bufferedSliderRect != null)
@@ -181,15 +184,15 @@ namespace RenderHeads.Media.AVProVideo.Demos
         public void OnOpenVideoFile()
         {
             LoadingPlayer.m_VideoPath = System.IO.Path.Combine(_folder, _videoFiles[_VideoIndex]);
-            _VideoIndex =  (_VideoIndex + 1) % (_videoFiles.Length);
+            _VideoIndex = (_VideoIndex + 1) % (_videoFiles.Length);
 
             if (_VideoIndex == 0)
             {
                 SaveVideoData();
             }
-              
 
-                if (string.IsNullOrEmpty(LoadingPlayer.m_VideoPath))
+
+            if (string.IsNullOrEmpty(LoadingPlayer.m_VideoPath))
             {
                 LoadingPlayer.CloseVideo();
                 _VideoIndex = 0;
@@ -198,19 +201,19 @@ namespace RenderHeads.Media.AVProVideo.Demos
             {
                 LoadingPlayer.OpenVideoFromFile(_location, LoadingPlayer.m_VideoPath, _AutoStartToggle.isOn);
             }
-            
+
             if (_bufferedSliderRect != null)
             {
                 _bufferedSliderImage = _bufferedSliderRect.GetComponent<Image>();
             }
         }
 
-            IEnumerator delaytTime(float delayTime)
-            {
-            
-                yield return new WaitForSeconds(delayTime);
-                _radial.SetActive(true);
-            }
+        IEnumerator delaytTime(float delayTime)
+        {
+
+            yield return new WaitForSeconds(delayTime);
+            _radial.SetActive(true);
+        }
 
 
 
@@ -260,7 +263,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
         public void OnVideoSeekSlider()
         {
-        
+
             if (PlayingPlayer && _videoSeekImageSlider && _videoSeekImageSlider.fillAmount != _setVideoSeekSliderValue)
             {
                 //Debug.Log("OnVideoSeekSlider >>  "  +  _videoSeekSlider.value * PlayingPlayer.Info.GetDurationMs() );
@@ -275,7 +278,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
         {
             //_videoSeekSlider.value = valuet;
 
-             PlayingPlayer.Control.Seek(value);
+            PlayingPlayer.Control.Seek(value);
         }
 
         public void OnVideoSeekRadialSlider(float sliderValue)
@@ -284,7 +287,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
             {
                 Debug.Log(sliderValue);
 
-                    PlayingPlayer.Control.Seek(sliderValue * PlayingPlayer.Info.GetDurationMs());
+                PlayingPlayer.Control.Seek(sliderValue * PlayingPlayer.Info.GetDurationMs());
             }
         }
 
@@ -304,8 +307,8 @@ namespace RenderHeads.Media.AVProVideo.Demos
                 debugTxt.text = "MouseDown";
                 if (_wasPlayingOnScrub)
                 {
-                  PlayingPlayer.Control.Pause();
-                  
+                    PlayingPlayer.Control.Pause();
+
                 }
 
                 OnVideoSeekSlider();
@@ -356,11 +359,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
         {
             if (PlayingPlayer)
             {
-                PlayingPlayer.Events.AddListener(OnVideoEvent);
+                //PlayingPlayer.Events.AddListener(OnVideoEvent);
 
                 if (LoadingPlayer)
                 {
-                    LoadingPlayer.Events.AddListener(OnVideoEvent);
+                    //LoadingPlayer.Events.AddListener(OnVideoEvent);
                 }
 
                 if (_audioVolumeSlider)
@@ -394,7 +397,14 @@ namespace RenderHeads.Media.AVProVideo.Demos
                 //SetButtonEnabled( "UnmuteButton", _mediaPlayer.m_Muted );
 
                 //  OnOpenVideoFile();
-                OnOpenVideoInx(0);
+
+                if (DataSender.Instance.OpenGameBtns == true)
+                {
+                    DataSender.Instance.OpenGameBtns = false;
+                    OnOpenVideoInx(10);
+                }
+                else
+                    OnOpenVideoInx(0);
             }
 
         }
@@ -403,11 +413,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
         {
             if (LoadingPlayer)
             {
-                LoadingPlayer.Events.RemoveListener(OnVideoEvent);
+                //LoadingPlayer.Events.RemoveListener(OnVideoEvent);
             }
             if (PlayingPlayer)
             {
-                PlayingPlayer.Events.RemoveListener(OnVideoEvent);
+                //PlayingPlayer.Events.RemoveListener(OnVideoEvent);
             }
         }
 
@@ -421,14 +431,14 @@ namespace RenderHeads.Media.AVProVideo.Demos
             }
             else
             {
-                sliderControal.alpha -= Time.deltaTime / fadeInDelay*2;
+                sliderControal.alpha -= Time.deltaTime / fadeInDelay * 2;
             }
             if (PlayingPlayer && PlayingPlayer.Info != null && PlayingPlayer.Info.GetDurationMs() > 0f)
             {
                 float time = PlayingPlayer.Control.GetCurrentTimeMs();
                 float duration = PlayingPlayer.Info.GetDurationMs();
                 float tValue = time / duration;
-                float d = Mathf.Clamp( tValue , 0.0f, 1.0f);
+                float d = Mathf.Clamp(tValue, 0.0f, 1.0f);
 
                 //float _nt = 0f;
 
@@ -449,21 +459,21 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
                 if (_VideoIndex == 1)
                 {
-                  
+
                     if (time < _vidoeTimeSection[0])
                     {
 
                         currentCount = 0;
                         _ntValue = time / _vidoeTimeSection[currentCount];
                         _d1 = Mathf.Clamp(_ntValue, 0.0f, 1.0f);
-                       // Debug.Log(" currentCount   : " + currentCount  + "    _isNext   : " + _isNext  ) ;
+                        // Debug.Log(" currentCount   : " + currentCount  + "    _isNext   : " + _isNext  ) ;
 
-                      
+
                         if (_isNext == false)
                         {
                             Debug.Log("NEXT  :  " + currentCount);
                             GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().RightThum(false);
-                           _isNext = true;
+                            _isNext = true;
                         }
 
 
@@ -473,7 +483,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
                             {
                                 _isNext = false;
                                 _isOnclick = true;
-                            //    Debug.Log("============================ ON CLICK 0============================");
+                                //    Debug.Log("============================ ON CLICK 0============================");
                             }
                         }
                     }
@@ -485,7 +495,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
                         if (_isNext == false)
                         {
-                           Debug.Log("NEXT  :  " + currentCount);
+                            Debug.Log("NEXT  :  " + currentCount);
                             GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().RightThum(false);
                             _isNext = true;
                         }
@@ -493,9 +503,9 @@ namespace RenderHeads.Media.AVProVideo.Demos
                         _curtime = time - _vidoeTimeSection[currentCount - 1];
                         _curduration = _vidoeTimeSection[currentCount] - _vidoeTimeSection[currentCount - 1];
                         _ntValue = _curtime / _curduration;
-                        _d1 = Mathf.Clamp(_ntValue , 0.0f, 1.0f);
+                        _d1 = Mathf.Clamp(_ntValue, 0.0f, 1.0f);
 
-                       //Debug.Log(" currentCount    " + currentCount + "  /  " + _isNext);
+                        //Debug.Log(" currentCount    " + currentCount + "  /  " + _isNext);
 
                         if (_d1 > 0.999f)
                         {
@@ -512,11 +522,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
                     {
                         //노르웨이 오로라
                         currentCount = 2;
-                     
+
                         if (_isNext == false)
                         {
                             _isOnclick = false;
-                            Debug.Log("NEXT  :  " + currentCount );
+                            Debug.Log("NEXT  :  " + currentCount);
                             GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().RightThum(false);
                             _isNext = true;
 
@@ -527,33 +537,33 @@ namespace RenderHeads.Media.AVProVideo.Demos
                         _d1 = Mathf.Clamp(_ntValue, 0.0f, 1.0f);
                         //Debug.Log("_d2   : " + _d1 + "    _isOnclick    " + _isOnclick);
 
-
-                        if (_d1 > 0.999f)
-                        {
-                            if (_isOnclick == false)
-                            {
-                                _isNext = false;
-
-                                _isOnclick = true;
-
-                                Debug.Log("============================ ON CLICK 2============================");
-                            }
-                        }
-
-
-                        //  Debug.Log("_isNext : " + time + "    /     " + _vidoeTimeSection[1] + "    d :  " + _d1);
-                    }
-
-                    else if (time > _vidoeTimeSection[2] && time < _vidoeTimeSection[3])
-                    {
-                        //에베레스트
-                        currentCount = 3;
-
-
                         if (_isNext == false)
                         {
                             _isOnclick = false;
                             Debug.Log("NEXT  :  " + currentCount);
+
+
+                            if (_d1 > 0.999f)
+                            {
+                                if (_isOnclick == false)
+                                {
+                                    _isNext = false;
+
+                                    _isOnclick = true;
+
+                                    Debug.Log("============================ ON CLICK 2============================");
+                                }
+                            }
+
+
+                            //  Debug.Log("_isNext : " + time + "    /     " + _vidoeTimeSection[1] + "    d :  " + _d1);
+                        }
+
+                        else if (time > _vidoeTimeSection[2] && time < _vidoeTimeSection[3])
+                        {
+                            //에베레스트
+                            currentCount = 3;
+
                             GameObject.Find("ThumPanel").GetComponent<ThumbnailManager>().RightThum(false);
                             _isNext = true;
 
@@ -639,9 +649,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
 
 
-                    } else if (time > _vidoeTimeSection[5] && time < _vidoeTimeSection[6] ) {
-                    
-                        
+                    }
+                    else if (time > _vidoeTimeSection[5] && time < _vidoeTimeSection[6])
+                    {
+
+
                         //세부 바다속
                         currentCount = 6;
 
@@ -675,10 +687,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
 
 
-                    } else if (time > _vidoeTimeSection[6] && time < _vidoeTimeSection[7])
+                    }
+                    else if (time > _vidoeTimeSection[6] && time < _vidoeTimeSection[7])
                     {
-                        currentCount =7;
-                       // Debug.Log("currentCount  :  " + currentCount);
+                        currentCount = 7;
+                        // Debug.Log("currentCount  :  " + currentCount);
                         if (_isNext == false)
                         {
                             Debug.Log("NEXT  :  " + currentCount);
@@ -708,11 +721,12 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
 
 
-                    } else if (time > _vidoeTimeSection[7] && time < _vidoeTimeSection[8])  //우주
+                    }
+                    else if (time > _vidoeTimeSection[7] && time < _vidoeTimeSection[8])  //우주
                     {
                         currentCount = 8;
-                      
-                       // Debug.Log("============================ ON CLICK 8 ============================");
+
+                        // Debug.Log("============================ ON CLICK 8 ============================");
                         if (_isNext == false)
                         {
                             Debug.Log("NEXT  :  " + currentCount);
@@ -721,9 +735,9 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
                         }
                         _curtime = time - _vidoeTimeSection[currentCount - 1];
-                        
+
                         _curduration = _vidoeTimeSection[currentCount] - _vidoeTimeSection[currentCount - 1];
-                        Debug.Log("currentCount  :  " + currentCount + "     /       " +_vidoeTimeSection[currentCount -1]);
+                        Debug.Log("currentCount  :  " + currentCount + "     /       " + _vidoeTimeSection[currentCount - 1]);
                         //_curduration = duration;
                         _ntValue = _curtime / _curduration;
                         _d1 = Mathf.Clamp(_ntValue, 0.0f, 1.0f);
@@ -766,16 +780,17 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
                     _sliderHander.GetComponent<Slider>().value = _d1;
 
-                } else if (_VideoIndex == 2)
+                }
+                else if (_VideoIndex == 2)
                 {
-                    _ntValue = time/ duration;
-                    _d1 = Mathf.Clamp(_ntValue , 0.0f , 1.0f);
+                    _ntValue = time / duration;
+                    _d1 = Mathf.Clamp(_ntValue, 0.0f, 1.0f);
                     _sliderHander.GetComponent<Slider>().value = _d1;
                 }
 
                 float _r = (d * 100f);
                 _radial.GetComponent<Michsky.UI.ModernUIPack.RadialSlider>().OnUpdatePer(_r);
-            
+
                 _setVideoSeekSliderValue = d;
 
                 _videoSeekSlider.value = d;
@@ -802,9 +817,9 @@ namespace RenderHeads.Media.AVProVideo.Demos
                         Vector2 anchorMin = Vector2.zero;
                         Vector2 anchorMax = Vector2.one;
 
-                        if (_bufferedSliderImage != null &&  _bufferedSliderImage.type == Image.Type.Filled)
+                        if (_bufferedSliderImage != null && _bufferedSliderImage.type == Image.Type.Filled)
                         {
-                           _bufferedSliderImage.fillAmount = d;
+                            _bufferedSliderImage.fillAmount = d;
                         }
                         else
                         {
@@ -812,14 +827,14 @@ namespace RenderHeads.Media.AVProVideo.Demos
                             anchorMax[0] = t2;
                         }
 
-                      _bufferedSliderRect.anchorMin = anchorMin;
-                       _bufferedSliderRect.anchorMax = anchorMax;
+                        _bufferedSliderRect.anchorMin = anchorMin;
+                        _bufferedSliderRect.anchorMax = anchorMax;
                     }
                 }
             }
         }
-        
-       
+
+
 
         public void IsNext()
         {
@@ -830,7 +845,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
 
         public void SaveVideoData()
         {
-            
+
             if (_VideoIndex == 1)
             {
                 int idx = 0;
@@ -858,7 +873,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
                 GameObject.Find("Canvas").GetComponent<SaveAppData>().SaveSettings(idx);
 
             }
-           // Debug.Log(" VIDEO INDEX : " + _VideoIndex  + "        IDX  :    "  + idx);
+            // Debug.Log(" VIDEO INDEX : " + _VideoIndex  + "        IDX  :    "  + idx);
         }
 
         public void OnSaveVideoData(int value)
@@ -866,13 +881,13 @@ namespace RenderHeads.Media.AVProVideo.Demos
             int idx = value;
             GameObject.Find("Canvas").GetComponent<SaveAppData>().SaveSettings(idx);
         }
-     
-            // Callback function to handle events
-         public void OnVideoEvent(MediaPlayer mp, MediaPlayerEvent.EventType et, ErrorCode errorCode)
+
+        // Callback function to handle events
+        public void OnVideoEvent(MediaPlayer mp, MediaPlayerEvent.EventType et, ErrorCode errorCode)
         {
             switch (et)
             {
-               
+
                 case MediaPlayerEvent.EventType.ReadyToPlay:
 
                     break;
@@ -883,7 +898,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
                     SwapPlayers();
                     break;
 
-                case MediaPlayerEvent.EventType.FinishedPlaying :
+                case MediaPlayerEvent.EventType.FinishedPlaying:
                     // main 으로 ..
 
                     if (_VideoIndex == 0)
@@ -893,11 +908,11 @@ namespace RenderHeads.Media.AVProVideo.Demos
                     else if (_VideoIndex == 4)
                     {
                         OnOpenVideoInx(1);
-                    } 
+                    }
                     else if (_VideoIndex == 13)
                     {
                         ChangeScene("Libirary");
-                    } 
+                    }
                     else if (_VideoIndex == 6 || _VideoIndex == 10)
                     {
                         OnOpenVideoInx(10);
@@ -934,7 +949,7 @@ namespace RenderHeads.Media.AVProVideo.Demos
                     }
 
 
-                        break;
+                    break;
 
                 case MediaPlayerEvent.EventType.Stalled:
 
@@ -950,13 +965,13 @@ namespace RenderHeads.Media.AVProVideo.Demos
             UnityEngine.SceneManagement.SceneManager.LoadScene(_SceneName);
         }
 
-        public IEnumerator ChangeScene(string _SceneName,float _time)
+        public IEnumerator ChangeScene(string _SceneName, float _time)
         {
             //while (PlayingPlayer.Control.GetCurrentTimeMs() < 4000)
             //    yield return new WaitForEndOfFrame();
 
             yield return new WaitForSeconds(4f);
-            
+
             UnityEngine.SceneManagement.SceneManager.LoadScene(_SceneName);
         }
 

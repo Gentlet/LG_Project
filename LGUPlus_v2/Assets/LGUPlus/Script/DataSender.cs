@@ -30,6 +30,7 @@ public class DataSender : MonoBehaviour
     }
 
     public int danceIndex;
+    public bool OpenGameBtns;
 
     public void ChangeDanceIndex(int _idx)
     {

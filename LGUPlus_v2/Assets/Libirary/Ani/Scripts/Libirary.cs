@@ -44,6 +44,8 @@ public class Libirary : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        touchTime = Time.time - 27f;
+
         string[] BookListDatas = Resources.Load("BookDatas/Book_v1").ToString().Replace('\r', ' ').Split('\n');
 
         for (int i = 1; i < BookListDatas.Length - 1; i++)
@@ -68,8 +70,6 @@ public class Libirary : MonoBehaviour
         slider.value = 0;
 
         SelectBook(index);
-
-        touchTime = Time.time;
     }
 
     private void Update()
@@ -80,7 +80,7 @@ public class Libirary : MonoBehaviour
         if (Input.GetMouseButtonDown(0))
             touchTime = Time.time;
 
-        if (Time.time - touchTime >= 30f)
+        if (Time.time - touchTime >= 30f && isOpen == false)
         {
             audioSource.PlayOneShot(guideSound);
             touchTime = Time.time;
