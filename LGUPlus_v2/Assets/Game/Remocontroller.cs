@@ -21,7 +21,7 @@ public class Remocontroller : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && FastPlay == false)
             touchTime = Time.time;
 
         if (Time.time - touchTime >= 30f)

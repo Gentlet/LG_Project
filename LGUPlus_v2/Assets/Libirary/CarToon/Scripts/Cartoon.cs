@@ -80,14 +80,15 @@ public class Cartoon : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.S))
             CloseDoor();
 
-        if (Input.GetMouseButtonDown(0))
-            touchTime = Time.time;
-
         if (Time.time - touchTime >= 30f && isOpen == false)
         {
             audioSource.PlayOneShot(guideSound);
             touchTime = Time.time;
         }
+    }
+    public void BtnClick()
+    {
+        touchTime = Time.time;
     }
 
     public void SelectBook()
